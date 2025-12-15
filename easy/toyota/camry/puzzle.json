@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "brand": "toyota",
+    "model": "camry",
+    "difficulty": "easy",
+    "pieceCount": 6
+  },
+  "pieces": [
+    {
+      "id": "door_l",
+      "node": "door_l"
+    },
+    {
+      "id": "bumper_b",
+      "node": "bumper_b"
+    },
+    {
+      "id": "bumper_f",
+      "node": "bumper_f"
+    },
+    {
+      "id": "roof",
+      "node": "roof"
+    },
+    {
+      "id": "hood",
+      "node": "hood"
+    },
+    {
+      "id": "door_r",
+      "node": "door_r"
+    }
+  ]
+}
