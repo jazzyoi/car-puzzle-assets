@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "brand": "vw",
+    "model": "beetle04",
+    "difficulty": "easy",
+    "pieceCount": 6
+  },
+  "pieces": [
+    {
+      "id": "base",
+      "node": "base"
+    },
+    {
+      "id": "rangka",
+      "node": "rangka"
+    },
+    {
+      "id": "frame_kaca",
+      "node": "frame_kaca"
+    },
+    {
+      "id": "kaca",
+      "node": "kaca"
+    },
+    {
+      "id": "lampu_spion",
+      "node": "lampu_spion"
+    },
+    {
+      "id": "rims",
+      "node": "rims"
+    }
+  ]
+}
