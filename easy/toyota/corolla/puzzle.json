@@ -1,8 +1,7 @@
 {
   "meta": {
     "brand": "toyota",
-    "series": "corolla",
-    "model": "3dpuzzle",
+    "model": "corolla",
     "difficulty": "easy",
     "pieceCount": 4
   },
@@ -29,3 +28,4 @@
   ]
 
 }
+
