@@ -1,13 +1,13 @@
 {
   "meta": {
-    "brand": "Toyota",
+    "brand": "toyota",
     "series": "corolla",
     "model": "3dpuzzle",
     "difficulty": "easy",
     "pieceCount": 4
   },
   "asset": {
-    "model": "3dpuzzle.glb"
+    "model": "corolla.glb"
   },
   "pieces": [
     {
@@ -27,4 +27,5 @@
       "node": "rangka_1"
     }
   ]
+
 }
