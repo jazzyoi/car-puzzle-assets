@@ -5,6 +5,9 @@
     "difficulty": "easy",
     "pieceCount": 9
   },
+    "asset": {
+    "model": "atto.glb"
+  },
   "pieces": [
     {
       "id": "door_r",
@@ -43,4 +46,5 @@
       "node": "rims_tire"
     }
   ]
+
 }
