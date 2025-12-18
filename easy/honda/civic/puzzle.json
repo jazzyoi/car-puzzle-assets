@@ -3,7 +3,7 @@
     "brand": "Honda",
     "model": "Civicr",
     "difficulty": "easy",
-    "pieceCount": 4
+    "pieceCount": 3
   },
   "asset": {
     "model": "civicr.glb"
@@ -24,3 +24,4 @@
   ]
 
 }
+
