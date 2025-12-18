@@ -6,7 +6,7 @@
     "pieceCount": 3
   },
   "asset": {
-    "model": "civicr.glb"
+    "model": "civic.glb"
   },
   "pieces": [
     {
@@ -24,4 +24,5 @@
   ]
 
 }
+
 
