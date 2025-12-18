@@ -10,25 +10,26 @@
   },
   "pieces": [
     {
-      "id": "object_5.274",
-      "node": "Object_5.274"
+      "id": "door_l",
+      "node": "door_l"
     },
     {
-      "id": "object_7.381",
-      "node": "Object_7.381"
+      "id": "door_r",
+      "node": "door_r"
     },
     {
-      "id": "object_4.5661",
-      "node": "Object_4.5661"
+      "id": "bumper",
+      "node": "bumper"
     },
     {
-      "id": "object_6.10569",
-      "node": "Object_6.10569"
+      "id": "tire",
+      "node": "tire"
     },
     {
-      "id": "object_6.6561",
-      "node": "Object_6.6561"
+      "id": "roof",
+      "node": "roof"
     }
   ]
 }
+
 
