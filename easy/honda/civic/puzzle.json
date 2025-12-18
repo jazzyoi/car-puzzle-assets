@@ -1,7 +1,7 @@
 {
   "meta": {
     "brand": "Honda",
-    "model": "civicr",
+    "model": "civic",
     "difficulty": "easy",
     "pieceCount": 3
   },
@@ -24,3 +24,4 @@
   ]
 
 }
+
