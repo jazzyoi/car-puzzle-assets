@@ -1,7 +1,7 @@
 {
   "meta": {
     "brand": "Honda",
-    "model": "Civic",
+    "model": "Civicr",
     "difficulty": "easy",
     "pieceCount": 4
   },
@@ -20,10 +20,7 @@
     {
       "id": "roda",
       "node": "roda"
-    },
-    {
-      "id": "roda.002",
-      "node": "roda.002"
     }
   ]
+
 }
