@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "brand": "Toyota",
+    "model": "puzzle",
+    "difficulty": "easy",
+    "pieceCount": 7
+  },
+  "asset": {
+    "model": "puzzle.glb"
+  },
+  "pieces": [
+    {
+      "id": "lumut",
+      "node": "lumut"
+    },
+    {
+      "id": "yellow",
+      "node": "yellow"
+    },
+    {
+      "id": "coklattua",
+      "node": "coklattua"
+    },
+    {
+      "id": "orange",
+      "node": "orange"
+    },
+    {
+      "id": "green",
+      "node": "green"
+    },
+    {
+      "id": "bluemuda",
+      "node": "bluemuda"
+    },
+    {
+      "id": "coklatmuda",
+      "node": "coklatmuda"
+    }
+  ]
+}
