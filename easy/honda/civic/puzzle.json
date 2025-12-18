@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "brand": "Honda",
+    "model": "civic",
+    "difficulty": "easy",
+    "pieceCount": 3
+  },
+  "asset": {
+    "model": "civic.glb"
+  },
+  "pieces": [
+    {
+      "id": "rangka_luar",
+      "node": "rangka_luar"
+    },
+    {
+      "id": "kaca",
+      "node": "kaca"
+    },
+    {
+      "id": "roda",
+      "node": "roda"
+    }
+  ]
+}
