@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "brand": "BYD",
+    "model": "Seal",
+    "difficulty": "easy",
+    "pieceCount": 5
+  },
+  "asset": {
+    "model": "3dpuzzle.glb"
+  },
+  "pieces": [
+    {
+      "id": "object_5.274",
+      "node": "Object_5.274"
+    },
+    {
+      "id": "object_7.381",
+      "node": "Object_7.381"
+    },
+    {
+      "id": "object_4.5661",
+      "node": "Object_4.5661"
+    },
+    {
+      "id": "object_6.10569",
+      "node": "Object_6.10569"
+    },
+    {
+      "id": "object_6.6561",
+      "node": "Object_6.6561"
+    }
+  ]
+}
