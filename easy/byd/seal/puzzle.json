@@ -3,7 +3,7 @@
     "brand": "BYD",
     "model": "Seal",
     "difficulty": "easy",
-    "pieceCount": 5
+    "pieceCount": 4
   },
   "asset": {
     "model": "3dpuzzle.glb"
@@ -20,11 +20,11 @@
     {
       "id": "object_4.5661",
       "node": "Object_4.5661"
-    },
+    }
     {
       "id": "object_6.10569",
       "node": "Object_6.10569"
     },
   ]
-
 }
+
