@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "brand": "Toyota",
+    "model": "crown",
+    "difficulty": "easy",
+    "pieceCount": 4
+  },
+  "asset": {
+    "model": "crown.glb"
+  },
+  "pieces": [
+    {
+      "id": "rangka_luar",
+      "node": "rangka_luar"
+    },
+    {
+      "id": "kaca",
+      "node": "kaca"
+    },
+    {
+      "id": "rangka_dalam",
+      "node": "rangka_dalam"
+    },
+    {
+      "id": "interior",
+      "node": "Interior"
+    }
+  ]
+}
