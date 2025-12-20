@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "brand": "Mercedes",
+    "model": "V-Class",
+    "difficulty": "easy",
+    "pieceCount": 52
+  },
+  "asset": {
+    "model": "v-class.glb"
+  },
+  "pieces": [
+    {
+      "id": "audi_rsq8a",
+      "node": "Audi_RSQ8a"
+    },
+    {
+      "id": "audi_rsq8b",
+      "node": "Audi_RSQ8b"
+    },
+    {
+      "id": "audi_rsq8c",
+      "node": "Audi_RSQ8c"
+    },
+    {
+      "id": "audi_rsq8c.001",
+      "node": "Audi_RSQ8c.001"
+    },
+    {
+      "id": "bottom1a",
+      "node": "bottom1a"
+    },
+    {
+      "id": "bottom1b",
+      "node": "bottom1b"
+    },
+    {
+      "id": "bottom1d",
+      "node": "bottom1d"
+    },
+    {
+      "id": "bottom1c",
+      "node": "bottom1c"
+    },
+    {
+      "id": "arpaint",
+      "node": "arpaint"
+    },
+    {
+      "id": "windowglass",
+      "node": "windowglass"
+    },
+    {
+      "id": "bottom2a",
+      "node": "bottom2a"
+    },
+    {
+      "id": "carchair_fronta1",
+      "node": "carchair_fronta1"
+    },
+    {
+      "id": "carchair_fronta2",
+      "node": "carchair_fronta2"
+    },
+    {
+      "id": "carchair_frontb1",
+      "node": "carchair_frontb1"
+    },
+    {
+      "id": "carchair_frontb2",
+      "node": "carchair_frontb2"
+    },
+    {
+      "id": "carchair_frontc1",
+      "node": "carchair_frontc1"
+    },
+    {
+      "id": "carchair_frontc2",
+      "node": "carchair_frontc2"
+    },
+    {
+      "id": "bottoma",
+      "node": "bottoma"
+    },
+    {
+      "id": "bottomb",
+      "node": "bottomb"
+    },
+    {
+      "id": "bottomc",
+      "node": "bottomc"
+    },
+    {
+      "id": "bottomd",
+      "node": "bottomd"
+    },
+    {
+      "id": "bottome",
+      "node": "bottome"
+    },
+    {
+      "id": "bottomf",
+      "node": "bottomf"
+    },
+    {
+      "id": "redglass1",
+      "node": "redglass1"
+    },
+    {
+      "id": "redglass2",
+      "node": "redglass2"
+    },
+    {
+      "id": "redglass3",
+      "node": "redglass3"
+    },
+    {
+      "id": "redglass4",
+      "node": "redglass4"
+    },
+    {
+      "id": "redglass5",
+      "node": "redglass5"
+    },
+    {
+      "id": "redglass6",
+      "node": "redglass6"
+    },
+    {
+      "id": "redglassa",
+      "node": "redglassa"
+    },
+    {
+      "id": "redglassb",
+      "node": "redglassb"
+    },
+    {
+      "id": "redglassc",
+      "node": "redglassc"
+    },
+    {
+      "id": "redglassd",
+      "node": "redglassd"
+    },
+    {
+      "id": "redglasse",
+      "node": "redglasse"
+    },
+    {
+      "id": "redglassf",
+      "node": "redglassf"
+    },
+    {
+      "id": "redglass01",
+      "node": "redglass01"
+    },
+    {
+      "id": "redglass02",
+      "node": "redglass02"
+    },
+    {
+      "id": "redglass03",
+      "node": "redglass03"
+    },
+    {
+      "id": "redglass04",
+      "node": "redglass04"
+    },
+    {
+      "id": "redglass05",
+      "node": "redglass05"
+    },
+    {
+      "id": "redglass06",
+      "node": "redglass06"
+    },
+    {
+      "id": "front_panel5",
+      "node": "front_panel5"
+    },
+    {
+      "id": "front_panela2",
+      "node": "front_panela2"
+    },
+    {
+      "id": "front_panela3",
+      "node": "front_panela3"
+    },
+    {
+      "id": "front_panela4",
+      "node": "front_panela4"
+    },
+    {
+      "id": "front_panelb1",
+      "node": "front_panelb1"
+    },
+    {
+      "id": "front_panelb2",
+      "node": "front_panelb2"
+    },
+    {
+      "id": "redglassa3",
+      "node": "redglassa3"
+    },
+    {
+      "id": "redglassa4",
+      "node": "redglassa4"
+    },
+    {
+      "id": "redglassa5",
+      "node": "redglassa5"
+    },
+    {
+      "id": "redglassa1",
+      "node": "redglassa1"
+    },
+    {
+      "id": "redglassa2",
+      "node": "redglassa2"
+    }
+  ]
+}
