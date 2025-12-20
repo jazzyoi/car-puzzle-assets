@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "brand": "BYD",
+    "model": "Atto",
+    "difficulty": "easy",
+    "pieceCount": 3
+  },
+  "asset": {
+    "model": "atto.glb"
+  },
+  "pieces": [
+    {
+      "id": "object_4",
+      "node": "Object_4"
+    },
+    {
+      "id": "object_5",
+      "node": "Object_5"
+    },
+    {
+      "id": "object_6",
+      "node": "Object_6"
+    }
+  ]
+}
