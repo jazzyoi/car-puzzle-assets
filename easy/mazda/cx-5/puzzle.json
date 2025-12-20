@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "brand": "Mazda",
+    "model": "Cx-5",
+    "difficulty": "easy",
+    "pieceCount": 6
+  },
+  "asset": {
+    "model": "cx-5.glb"
+  },
+  "pieces": [
+    {
+      "id": "object_5",
+      "node": "Object_5"
+    },
+    {
+      "id": "object_6",
+      "node": "Object_6"
+    },
+    {
+      "id": "object_8",
+      "node": "Object_8"
+    },
+    {
+      "id": "object_10",
+      "node": "Object_10"
+    },
+    {
+      "id": "object_12",
+      "node": "Object_12"
+    },
+    {
+      "id": "object_13",
+      "node": "Object_13"
+    }
+  ]
+}
