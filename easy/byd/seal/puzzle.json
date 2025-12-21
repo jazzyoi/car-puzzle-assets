@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "brand": "BYD",
+    "model": "Seal",
+    "difficulty": "easy",
+    "pieceCount": 5
+  },
+  "asset": {
+    "model": "seal.glb"
+  },
+  "pieces": [
+    {
+      "id": "object_4",
+      "node": "Object_4"
+    },
+    {
+      "id": "object_5",
+      "node": "Object_5"
+    },
+    {
+      "id": "object_6",
+      "node": "Object_6"
+    },
+    {
+      "id": "object_7",
+      "node": "Object_7"
+    },
+    {
+      "id": "object_8",
+      "node": "Object_8"
+    }
+  ]
+}
