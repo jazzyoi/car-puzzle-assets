@@ -3,215 +3,75 @@
     "brand": "Ferrari",
     "model": "F488",
     "difficulty": "easy",
-    "pieceCount": 51
+    "pieceCount": 16
   },
   "asset": {
     "model": "f488.glb"
   },
   "pieces": [
     {
-      "id": "polysurface216_ferrari_812competizionerewardrecycled_2021_wheel",
-      "node": "polySurface216_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+      "id": "polysurface468_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface468_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
     },
     {
-      "id": "polysurface211_ferrari_812competizionerewardrecycled_2021_wheel",
-      "node": "polySurface211_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+      "id": "polysurface468_ferrari_812competizionerewardrecycled_2021_whe",
+      "node": "polySurface468_Ferrari_812CompetizioneRewardRecycled_2021_Whe"
     },
     {
-      "id": "sm_soft_0000001_mtl_carpaint_base_0",
-      "node": "SM_Soft_0000001_MTL_CarPaint_Base_0"
+      "id": "polysurface468_ferrari_812competizionerewardrecycled_2021_wh",
+      "node": "polySurface468_Ferrari_812CompetizioneRewardRecycled_2021_Wh"
     },
     {
-      "id": "sm_soft_0000001_mat_details_ext_0",
-      "node": "SM_Soft_0000001_MAT_Details_EXT_0"
+      "id": "polysurface468_ferrari_812competizionerewardrecycled_2021_w",
+      "node": "polySurface468_Ferrari_812CompetizioneRewardRecycled_2021_W"
     },
     {
-      "id": "sm_soft_0000001_mat_details_mat_0",
-      "node": "SM_Soft_0000001_MAT_Details_MAT_0"
+      "id": "polysurface468_ferrari_812competizionerewardrecycled_2021_w001",
+      "node": "polySurface468_Ferrari_812CompetizioneRewardRecycled_2021_W001"
     },
     {
-      "id": "sm_root_488_pista_spider_2022001_mtl_carpaint_base_0",
-      "node": "SM_Root_488_Pista_Spider_2022001_MTL_CarPaint_Base_0"
+      "id": "polysurface468_ferrari_812competizionerewardrecycled_2021_w002",
+      "node": "polySurface468_Ferrari_812CompetizioneRewardRecycled_2021_W002"
     },
     {
-      "id": "sm_rearkit_0000001_mtl_carpaint_base_0",
-      "node": "SM_RearKit_0000001_MTL_CarPaint_Base_0"
+      "id": "polysurface468_ferrari_812competizionerewardrecycled_2021_w003",
+      "node": "polySurface468_Ferrari_812CompetizioneRewardRecycled_2021_W003"
     },
     {
-      "id": "sm_rearkit_0000001_mat_488_spider_01_carbon_0",
-      "node": "SM_RearKit_0000001_MAT_488_Spider_01_Carbon_0"
+      "id": "polysurface468_ferrari_812competizionerewardrecycled_2021_w004",
+      "node": "polySurface468_Ferrari_812CompetizioneRewardRecycled_2021_W004"
     },
     {
-      "id": "sm_rearkit_0000001_mat_glass_0",
-      "node": "SM_RearKit_0000001_MAT_Glass_0"
+      "id": "polysurface468_ferrari_812competizionerewardrecycled_2021_w005",
+      "node": "polySurface468_Ferrari_812CompetizioneRewardRecycled_2021_W005"
     },
     {
-      "id": "sm_rearkit_0000001_mat_lights_0",
-      "node": "SM_RearKit_0000001_MAT_Lights_0"
+      "id": "polysurface468_ferrari_812competizionerewardrecycled_2021_w006",
+      "node": "polySurface468_Ferrari_812CompetizioneRewardRecycled_2021_W006"
     },
     {
-      "id": "sm_rearkit_0000001_mat_details_ext_0",
-      "node": "SM_RearKit_0000001_MAT_Details_EXT_0"
+      "id": "polysurface468_ferrari_812competizionerewardrecycled_2021_w007",
+      "node": "polySurface468_Ferrari_812CompetizioneRewardRecycled_2021_W007"
     },
     {
-      "id": "sm_rearkit_0000001_mat_details_mat_0",
-      "node": "SM_RearKit_0000001_MAT_Details_MAT_0"
+      "id": "polysurface468_ferrari_812competizionerewardrecycled_2021_w008",
+      "node": "polySurface468_Ferrari_812CompetizioneRewardRecycled_2021_W008"
     },
     {
-      "id": "sm_rearkit_0000001_mat_details_grid_01001_0",
-      "node": "SM_RearKit_0000001_MAT_Details_Grid_01001_0"
+      "id": "polysurface468_ferrari_812competizionerewardrecycled_2021_w009",
+      "node": "polySurface468_Ferrari_812CompetizioneRewardRecycled_2021_W009"
     },
     {
-      "id": "sm_rearkit_0000001_mat_details_grid_02_0",
-      "node": "SM_RearKit_0000001_MAT_Details_Grid_02_0"
+      "id": "polysurface468_ferrari_812competizionerewardrecycled_2021_w010",
+      "node": "polySurface468_Ferrari_812CompetizioneRewardRecycled_2021_W010"
     },
     {
-      "id": "sm_rearkit_0000001_mat_details_chassis_0001_0",
-      "node": "SM_RearKit_0000001_MAT_Details_Chassis_0001_0"
+      "id": "polysurface468_ferrari_812competizionerewardrecycled_2021_w011",
+      "node": "polySurface468_Ferrari_812CompetizioneRewardRecycled_2021_W011"
     },
     {
-      "id": "sm_interior_0000001_mtl_carpaint_base_0",
-      "node": "SM_Interior_0000001_MTL_CarPaint_Base_0"
-    },
-    {
-      "id": "sm_interior_0000001_mat_488_spider_01_carbon_0",
-      "node": "SM_Interior_0000001_MAT_488_Spider_01_Carbon_0"
-    },
-    {
-      "id": "sm_interior_0000001_black_carbon_0",
-      "node": "SM_Interior_0000001_Black_Carbon_0"
-    },
-    {
-      "id": "sm_interior_0000001_mat_details_int_0",
-      "node": "SM_Interior_0000001_MAT_Details_INT_0"
-    },
-    {
-      "id": "sm_interior_0000001_mat_details_mat_0",
-      "node": "SM_Interior_0000001_MAT_Details_MAT_0"
-    },
-    {
-      "id": "sm_interior_0000001_mat_details_grid_02_0",
-      "node": "SM_Interior_0000001_MAT_Details_Grid_02_0"
-    },
-    {
-      "id": "sm_hood_0000001_mtl_carpaint_base_0",
-      "node": "SM_Hood_0000001_MTL_CarPaint_Base_0"
-    },
-    {
-      "id": "sm_hood_0000001_mat_details_mat_0",
-      "node": "SM_Hood_0000001_MAT_Details_MAT_0"
-    },
-    {
-      "id": "sm_frontkit_0000001_mtl_carpaint_base_0",
-      "node": "SM_FrontKit_0000001_MTL_CarPaint_Base_0"
-    },
-    {
-      "id": "sm_frontkit_0000001_mat_488_spider_01_carbon_0",
-      "node": "SM_FrontKit_0000001_MAT_488_Spider_01_Carbon_0"
-    },
-    {
-      "id": "sm_frontkit_0000001_mat_glass_0",
-      "node": "SM_FrontKit_0000001_MAT_Glass_0"
-    },
-    {
-      "id": "sm_frontkit_0000001_mat_lights_0",
-      "node": "SM_FrontKit_0000001_MAT_Lights_0"
-    },
-    {
-      "id": "sm_frontkit_0000001_mat_details_ext_0",
-      "node": "SM_FrontKit_0000001_MAT_Details_EXT_0"
-    },
-    {
-      "id": "sm_frontkit_0000001_mat_details_mat_0",
-      "node": "SM_FrontKit_0000001_MAT_Details_MAT_0"
-    },
-    {
-      "id": "sm_frontkit_0000001_mat_details_grid_01001_0",
-      "node": "SM_FrontKit_0000001_MAT_Details_Grid_01001_0"
-    },
-    {
-      "id": "sm_frontkit_0000001_mat_details_chassis_0001_0",
-      "node": "SM_FrontKit_0000001_MAT_Details_Chassis_0001_0"
-    },
-    {
-      "id": "sm_base_0000001_mtl_carpaint_base_0",
-      "node": "SM_Base_0000001_MTL_CarPaint_Base_0"
-    },
-    {
-      "id": "sm_base_0000001_mat_glass_0",
-      "node": "SM_Base_0000001_MAT_Glass_0"
-    },
-    {
-      "id": "sm_base_0000001_mat_details_ext_0",
-      "node": "SM_Base_0000001_MAT_Details_EXT_0"
-    },
-    {
-      "id": "sm_base_0000001_mat_details_mat_0",
-      "node": "SM_Base_0000001_MAT_Details_MAT_0"
-    },
-    {
-      "id": "sm_hub_l_0000001_mat_tire_hub_0",
-      "node": "SM_Hub_L_0000001_MAT_Tire_Hub_0"
-    },
-    {
-      "id": "sm_disk_l_0000001_mat_tire_disk_0",
-      "node": "SM_Disk_L_0000001_MAT_Tire_Disk_0"
-    },
-    {
-      "id": "sm_brake_fl_0000001_mat_tire_brake_0",
-      "node": "SM_Brake_FL_0000001_MAT_Tire_Brake_0"
-    },
-    {
-      "id": "sm_hub_l_0000001_mat_tire_hub_0001",
-      "node": "SM_Hub_L_0000001_MAT_Tire_Hub_0001"
-    },
-    {
-      "id": "sm_disk_l_0000001_mat_tire_disk_0001",
-      "node": "SM_Disk_L_0000001_MAT_Tire_Disk_0001"
-    },
-    {
-      "id": "sm_brake_rr_0000001_mat_tire_brake_0",
-      "node": "SM_Brake_RR_0000001_MAT_Tire_Brake_0"
-    },
-    {
-      "id": "sm_hub_r_0000001_mat_tire_hub_0",
-      "node": "SM_Hub_R_0000001_MAT_Tire_Hub_0"
-    },
-    {
-      "id": "sm_brake_fr_0000001_mat_tire_brake_0",
-      "node": "SM_Brake_FR_0000001_MAT_Tire_Brake_0"
-    },
-    {
-      "id": "sm_disk_r_0000001_mat_tire_disk_0",
-      "node": "SM_Disk_R_0000001_MAT_Tire_Disk_0"
-    },
-    {
-      "id": "sm_hub_r_0000001_mat_tire_hub_0001",
-      "node": "SM_Hub_R_0000001_MAT_Tire_Hub_0001"
-    },
-    {
-      "id": "sm_brake_rl_0000001_mat_tire_brake_0",
-      "node": "SM_Brake_RL_0000001_MAT_Tire_Brake_0"
-    },
-    {
-      "id": "sm_disk_r_0000001_mat_tire_disk_0001",
-      "node": "SM_Disk_R_0000001_MAT_Tire_Disk_0001"
-    },
-    {
-      "id": "polysurface460_ferrari_812competizionerewardrecycled_2021_whee",
-      "node": "polySurface460_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
-    },
-    {
-      "id": "polysurface238_ferrari_812competizionerewardrecycled_2021_whee",
-      "node": "polySurface238_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
-    },
-    {
-      "id": "polysurface211_ferrari_812competizionerewardrecycled_2021_whee",
-      "node": "polySurface211_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
-    },
-    {
-      "id": "polysurface460_ferrari_812competizionerewardrecycled_2021_whe",
-      "node": "polySurface460_Ferrari_812CompetizioneRewardRecycled_2021_Whe"
+      "id": "polysurface468_ferrari_812competizionerewardrecycled_2021_w012",
+      "node": "polySurface468_Ferrari_812CompetizioneRewardRecycled_2021_W012"
     }
   ]
 }
