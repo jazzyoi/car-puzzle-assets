@@ -1,9 +1,4 @@
 {
-    demo: {
-        "Demo": {
-            "Shapes (No Files)": { count: 6, type: "procedural" }
-        }
-    },
     easy: {
          "BYD": {
             "Atto": { type: "github", path: "easy/byd/atto" },
@@ -73,4 +68,5 @@
             "F40": { prefix: "part", count: 8 } 
         }
     }
+
 };
