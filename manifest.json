@@ -57,17 +57,18 @@
             "Beetle": { "type": "github", "path": "easy/vw/beetle" } ,
             "Golf"  : { "type": "github", "path": "easy/vw/golf" } 
         },
-    },
+    }
     "medium": {
         "Toyota": {
             "Supra": { "prefix": "part", "count": "5" }
         }
-    },
+    }
     "hard": {
         "Ferrari": {
             "F40": { "prefix": "part", "count": "8" } 
         }
     }
 }
+
 
 
