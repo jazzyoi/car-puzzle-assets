@@ -1,0 +1,617 @@
+{
+  "meta": {
+    "brand": "BMW",
+    "model": "3ST",
+    "difficulty": "easy",
+    "pieceCount": 151
+  },
+  "asset": {
+    "model": "3st.glb"
+  },
+  "pieces": [
+    {
+      "id": "desirefx_me_001_black_0",
+      "node": "desirefx_me_001_black_0"
+    },
+    {
+      "id": "desirefx_me_002_windowglass_0",
+      "node": "desirefx_me_002_windowglass_0"
+    },
+    {
+      "id": "desirefx_me_003_chrome_0",
+      "node": "desirefx_me_003_chrome_0"
+    },
+    {
+      "id": "desirefx_me_004_black_0",
+      "node": "desirefx_me_004_black_0"
+    },
+    {
+      "id": "desirefx_me_005_interior_0",
+      "node": "desirefx_me_005_interior_0"
+    },
+    {
+      "id": "desirefx_me_006_interior_0",
+      "node": "desirefx_me_006_interior_0"
+    },
+    {
+      "id": "desirefx_me_007_carpaint_0",
+      "node": "desirefx_me_007_carpaint_0"
+    },
+    {
+      "id": "desirefx_me_008_carpaint_0",
+      "node": "desirefx_me_008_carpaint_0"
+    },
+    {
+      "id": "desirefx_me_009_carpaint_0",
+      "node": "desirefx_me_009_carpaint_0"
+    },
+    {
+      "id": "desirefx_me_010_black_0",
+      "node": "desirefx_me_010_black_0"
+    },
+    {
+      "id": "desirefx_me_011_windowglass_0",
+      "node": "desirefx_me_011_windowglass_0"
+    },
+    {
+      "id": "desirefx_me_012_black_0",
+      "node": "desirefx_me_012_black_0"
+    },
+    {
+      "id": "desirefx_me_013_black_0",
+      "node": "desirefx_me_013_black_0"
+    },
+    {
+      "id": "desirefx_me_014_black_0",
+      "node": "desirefx_me_014_black_0"
+    },
+    {
+      "id": "desirefx_me_015_clearglass_0",
+      "node": "desirefx_me_015_clearglass_0"
+    },
+    {
+      "id": "desirefx_me_016_chrome_0",
+      "node": "desirefx_me_016_chrome_0"
+    },
+    {
+      "id": "desirefx_me_017_clearglass_0",
+      "node": "desirefx_me_017_clearglass_0"
+    },
+    {
+      "id": "desirefx_me_018_chrome_0",
+      "node": "desirefx_me_018_chrome_0"
+    },
+    {
+      "id": "desirefx_me_019_white_0",
+      "node": "desirefx_me_019_white_0"
+    },
+    {
+      "id": "desirefx_me_020_blue_0",
+      "node": "desirefx_me_020_blue_0"
+    },
+    {
+      "id": "desirefx_me_021_chrome_0",
+      "node": "desirefx_me_021_chrome_0"
+    },
+    {
+      "id": "desirefx_me_022_black_0",
+      "node": "desirefx_me_022_black_0"
+    },
+    {
+      "id": "desirefx_me_023_white_0",
+      "node": "desirefx_me_023_white_0"
+    },
+    {
+      "id": "desirefx_me_024_chrome_0",
+      "node": "desirefx_me_024_chrome_0"
+    },
+    {
+      "id": "desirefx_me_025_white_0",
+      "node": "desirefx_me_025_white_0"
+    },
+    {
+      "id": "desirefx_me_026_blue_0",
+      "node": "desirefx_me_026_blue_0"
+    },
+    {
+      "id": "desirefx_me_027_chrome_0",
+      "node": "desirefx_me_027_chrome_0"
+    },
+    {
+      "id": "desirefx_me_028_black_0",
+      "node": "desirefx_me_028_black_0"
+    },
+    {
+      "id": "desirefx_me_029_white_0",
+      "node": "desirefx_me_029_white_0"
+    },
+    {
+      "id": "desirefx_me_030_chrome_0",
+      "node": "desirefx_me_030_chrome_0"
+    },
+    {
+      "id": "desirefx_me_031_orangeglass_0",
+      "node": "desirefx_me_031_orangeglass_0"
+    },
+    {
+      "id": "desirefx_me_032_mattemetal_0",
+      "node": "desirefx_me_032_mattemetal_0"
+    },
+    {
+      "id": "desirefx_me_033_black_0",
+      "node": "desirefx_me_033_black_0"
+    },
+    {
+      "id": "desirefx_me_034_mattemetal_0",
+      "node": "desirefx_me_034_mattemetal_0"
+    },
+    {
+      "id": "desirefx_me_035_clearglass_0",
+      "node": "desirefx_me_035_clearglass_0"
+    },
+    {
+      "id": "desirefx_me_036_black_0",
+      "node": "desirefx_me_036_black_0"
+    },
+    {
+      "id": "desirefx_me_037_mattemetal_0",
+      "node": "desirefx_me_037_mattemetal_0"
+    },
+    {
+      "id": "desirefx_me_038_clearglass_0",
+      "node": "desirefx_me_038_clearglass_0"
+    },
+    {
+      "id": "desirefx_me_039_black_0",
+      "node": "desirefx_me_039_black_0"
+    },
+    {
+      "id": "desirefx_me_040_mattemetal_0",
+      "node": "desirefx_me_040_mattemetal_0"
+    },
+    {
+      "id": "desirefx_me_041_clearglass_0",
+      "node": "desirefx_me_041_clearglass_0"
+    },
+    {
+      "id": "desirefx_me_042_black_0",
+      "node": "desirefx_me_042_black_0"
+    },
+    {
+      "id": "desirefx_me_043_mattemetal_0",
+      "node": "desirefx_me_043_mattemetal_0"
+    },
+    {
+      "id": "desirefx_me_044_clearglass_0",
+      "node": "desirefx_me_044_clearglass_0"
+    },
+    {
+      "id": "desirefx_me_045_black_0",
+      "node": "desirefx_me_045_black_0"
+    },
+    {
+      "id": "desirefx_me_046_mattemetal_0",
+      "node": "desirefx_me_046_mattemetal_0"
+    },
+    {
+      "id": "desirefx_me_047_black_0",
+      "node": "desirefx_me_047_black_0"
+    },
+    {
+      "id": "desirefx_me_048_clearglass_0",
+      "node": "desirefx_me_048_clearglass_0"
+    },
+    {
+      "id": "desirefx_me_049_mirror_0",
+      "node": "desirefx_me_049_mirror_0"
+    },
+    {
+      "id": "desirefx_me_050_chrome_0",
+      "node": "desirefx_me_050_chrome_0"
+    },
+    {
+      "id": "desirefx_me_051_interior_0",
+      "node": "desirefx_me_051_interior_0"
+    },
+    {
+      "id": "desirefx_me_052_white_0",
+      "node": "desirefx_me_052_white_0"
+    },
+    {
+      "id": "desirefx_me_053_blue_0",
+      "node": "desirefx_me_053_blue_0"
+    },
+    {
+      "id": "desirefx_me_054_chrome_0",
+      "node": "desirefx_me_054_chrome_0"
+    },
+    {
+      "id": "desirefx_me_055_black_0",
+      "node": "desirefx_me_055_black_0"
+    },
+    {
+      "id": "desirefx_me_056_white_0",
+      "node": "desirefx_me_056_white_0"
+    },
+    {
+      "id": "desirefx_me_057_chrome_0",
+      "node": "desirefx_me_057_chrome_0"
+    },
+    {
+      "id": "desirefx_me_058_black_0",
+      "node": "desirefx_me_058_black_0"
+    },
+    {
+      "id": "desirefx_me_059_clearglass_0",
+      "node": "desirefx_me_059_clearglass_0"
+    },
+    {
+      "id": "desirefx_me_060_chrome_0",
+      "node": "desirefx_me_060_chrome_0"
+    },
+    {
+      "id": "desirefx_me_061_carpaint_0",
+      "node": "desirefx_me_061_carpaint_0"
+    },
+    {
+      "id": "desirefx_me_062_chrome_0",
+      "node": "desirefx_me_062_chrome_0"
+    },
+    {
+      "id": "desirefx_me_063_orangeglass_0",
+      "node": "desirefx_me_063_orangeglass_0"
+    },
+    {
+      "id": "desirefx_me_064_mattemetal_0",
+      "node": "desirefx_me_064_mattemetal_0"
+    },
+    {
+      "id": "desirefx_me_065_chrome_0",
+      "node": "desirefx_me_065_chrome_0"
+    },
+    {
+      "id": "desirefx_me_066_chrome_0",
+      "node": "desirefx_me_066_chrome_0"
+    },
+    {
+      "id": "desirefx_me_067_black_0",
+      "node": "desirefx_me_067_black_0"
+    },
+    {
+      "id": "desirefx_me_068_clearglass_0",
+      "node": "desirefx_me_068_clearglass_0"
+    },
+    {
+      "id": "desirefx_me_069_mattemetal_0",
+      "node": "desirefx_me_069_mattemetal_0"
+    },
+    {
+      "id": "desirefx_me_070_black_0",
+      "node": "desirefx_me_070_black_0"
+    },
+    {
+      "id": "desirefx_me_071_clearglass_0",
+      "node": "desirefx_me_071_clearglass_0"
+    },
+    {
+      "id": "desirefx_me_072_mattemetal_0",
+      "node": "desirefx_me_072_mattemetal_0"
+    },
+    {
+      "id": "desirefx_me_073_chrome_0",
+      "node": "desirefx_me_073_chrome_0"
+    },
+    {
+      "id": "desirefx_me_074_clearglass_0",
+      "node": "desirefx_me_074_clearglass_0"
+    },
+    {
+      "id": "desirefx_me_075_orangeglass_0",
+      "node": "desirefx_me_075_orangeglass_0"
+    },
+    {
+      "id": "desirefx_me_076_carpaint_0",
+      "node": "desirefx_me_076_carpaint_0"
+    },
+    {
+      "id": "desirefx_me_077_mirror_0",
+      "node": "desirefx_me_077_mirror_0"
+    },
+    {
+      "id": "desirefx_me_078_windowglass_0",
+      "node": "desirefx_me_078_windowglass_0"
+    },
+    {
+      "id": "desirefx_me_079_carpaint_0",
+      "node": "desirefx_me_079_carpaint_0"
+    },
+    {
+      "id": "desirefx_me_080_carpaint_0",
+      "node": "desirefx_me_080_carpaint_0"
+    },
+    {
+      "id": "desirefx_me_081_carpaint_0",
+      "node": "desirefx_me_081_carpaint_0"
+    },
+    {
+      "id": "desirefx_me_082_clearglass_0",
+      "node": "desirefx_me_082_clearglass_0"
+    },
+    {
+      "id": "desirefx_me_083_redglass_0",
+      "node": "desirefx_me_083_redglass_0"
+    },
+    {
+      "id": "desirefx_me_084_clearglass_0",
+      "node": "desirefx_me_084_clearglass_0"
+    },
+    {
+      "id": "desirefx_me_085_chrome_0",
+      "node": "desirefx_me_085_chrome_0"
+    },
+    {
+      "id": "desirefx_me_086_mattemetal_0",
+      "node": "desirefx_me_086_mattemetal_0"
+    },
+    {
+      "id": "desirefx_me_087_black_0",
+      "node": "desirefx_me_087_black_0"
+    },
+    {
+      "id": "desirefx_me_088_chrome_0",
+      "node": "desirefx_me_088_chrome_0"
+    },
+    {
+      "id": "desirefx_me_089_black_0",
+      "node": "desirefx_me_089_black_0"
+    },
+    {
+      "id": "desirefx_me_090_orangeglass_0",
+      "node": "desirefx_me_090_orangeglass_0"
+    },
+    {
+      "id": "desirefx_me_091_mattemetal_0",
+      "node": "desirefx_me_091_mattemetal_0"
+    },
+    {
+      "id": "desirefx_me_092_black_0",
+      "node": "desirefx_me_092_black_0"
+    },
+    {
+      "id": "desirefx_me_093_chrome_0",
+      "node": "desirefx_me_093_chrome_0"
+    },
+    {
+      "id": "desirefx_me_094_chrome_0",
+      "node": "desirefx_me_094_chrome_0"
+    },
+    {
+      "id": "desirefx_me_095_white_0",
+      "node": "desirefx_me_095_white_0"
+    },
+    {
+      "id": "desirefx_me_096_black_0",
+      "node": "desirefx_me_096_black_0"
+    },
+    {
+      "id": "desirefx_me_097_white_0",
+      "node": "desirefx_me_097_white_0"
+    },
+    {
+      "id": "desirefx_me_098_blue_0",
+      "node": "desirefx_me_098_blue_0"
+    },
+    {
+      "id": "desirefx_me_099_black_0",
+      "node": "desirefx_me_099_black_0"
+    },
+    {
+      "id": "desirefx_me_100_black_0",
+      "node": "desirefx_me_100_black_0"
+    },
+    {
+      "id": "desirefx_me_101_tire_0",
+      "node": "desirefx_me_101_tire_0"
+    },
+    {
+      "id": "desirefx_me_102_rim_0",
+      "node": "desirefx_me_102_rim_0"
+    },
+    {
+      "id": "desirefx_me_103_brakedisk_0",
+      "node": "desirefx_me_103_brakedisk_0"
+    },
+    {
+      "id": "desirefx_me_104_tire_0",
+      "node": "desirefx_me_104_tire_0"
+    },
+    {
+      "id": "desirefx_me_105_chrome_0",
+      "node": "desirefx_me_105_chrome_0"
+    },
+    {
+      "id": "desirefx_me_106_chrome_0",
+      "node": "desirefx_me_106_chrome_0"
+    },
+    {
+      "id": "desirefx_me_107_white_0",
+      "node": "desirefx_me_107_white_0"
+    },
+    {
+      "id": "desirefx_me_108_black_0",
+      "node": "desirefx_me_108_black_0"
+    },
+    {
+      "id": "desirefx_me_109_white_0",
+      "node": "desirefx_me_109_white_0"
+    },
+    {
+      "id": "desirefx_me_110_blue_0",
+      "node": "desirefx_me_110_blue_0"
+    },
+    {
+      "id": "desirefx_me_111_black_0",
+      "node": "desirefx_me_111_black_0"
+    },
+    {
+      "id": "desirefx_me_112_black_0",
+      "node": "desirefx_me_112_black_0"
+    },
+    {
+      "id": "desirefx_me_113_rim_0",
+      "node": "desirefx_me_113_rim_0"
+    },
+    {
+      "id": "desirefx_me_114_brakedisk_0",
+      "node": "desirefx_me_114_brakedisk_0"
+    },
+    {
+      "id": "desirefx_me_115_tire_0",
+      "node": "desirefx_me_115_tire_0"
+    },
+    {
+      "id": "desirefx_me_116_chrome_0",
+      "node": "desirefx_me_116_chrome_0"
+    },
+    {
+      "id": "desirefx_me_117_chrome_0",
+      "node": "desirefx_me_117_chrome_0"
+    },
+    {
+      "id": "desirefx_me_118_white_0",
+      "node": "desirefx_me_118_white_0"
+    },
+    {
+      "id": "desirefx_me_119_black_0",
+      "node": "desirefx_me_119_black_0"
+    },
+    {
+      "id": "desirefx_me_120_white_0",
+      "node": "desirefx_me_120_white_0"
+    },
+    {
+      "id": "desirefx_me_121_blue_0",
+      "node": "desirefx_me_121_blue_0"
+    },
+    {
+      "id": "desirefx_me_122_black_0",
+      "node": "desirefx_me_122_black_0"
+    },
+    {
+      "id": "desirefx_me_123_rim_0",
+      "node": "desirefx_me_123_rim_0"
+    },
+    {
+      "id": "desirefx_me_124_brakedisk_0",
+      "node": "desirefx_me_124_brakedisk_0"
+    },
+    {
+      "id": "desirefx_me_125_tire_0",
+      "node": "desirefx_me_125_tire_0"
+    },
+    {
+      "id": "desirefx_me_126_chrome_0",
+      "node": "desirefx_me_126_chrome_0"
+    },
+    {
+      "id": "desirefx_me_127_chrome_0",
+      "node": "desirefx_me_127_chrome_0"
+    },
+    {
+      "id": "desirefx_me_128_white_0",
+      "node": "desirefx_me_128_white_0"
+    },
+    {
+      "id": "desirefx_me_129_black_0",
+      "node": "desirefx_me_129_black_0"
+    },
+    {
+      "id": "desirefx_me_130_white_0",
+      "node": "desirefx_me_130_white_0"
+    },
+    {
+      "id": "desirefx_me_131_blue_0",
+      "node": "desirefx_me_131_blue_0"
+    },
+    {
+      "id": "desirefx_me_132_black_0",
+      "node": "desirefx_me_132_black_0"
+    },
+    {
+      "id": "desirefx_me_133_rim_0",
+      "node": "desirefx_me_133_rim_0"
+    },
+    {
+      "id": "desirefx_me_134_brakedisk_0",
+      "node": "desirefx_me_134_brakedisk_0"
+    },
+    {
+      "id": "desirefx_me_135_carpaint_0",
+      "node": "desirefx_me_135_carpaint_0"
+    },
+    {
+      "id": "desirefx_me_136_carpaint_0",
+      "node": "desirefx_me_136_carpaint_0"
+    },
+    {
+      "id": "desirefx_me_137_black_0",
+      "node": "desirefx_me_137_black_0"
+    },
+    {
+      "id": "desirefx_me_138_black_0",
+      "node": "desirefx_me_138_black_0"
+    },
+    {
+      "id": "desirefx_me_139_black_0",
+      "node": "desirefx_me_139_black_0"
+    },
+    {
+      "id": "desirefx_me_140_black_0",
+      "node": "desirefx_me_140_black_0"
+    },
+    {
+      "id": "desirefx_me_141_chrome_0",
+      "node": "desirefx_me_141_chrome_0"
+    },
+    {
+      "id": "desirefx_me_142_clearglass_0",
+      "node": "desirefx_me_142_clearglass_0"
+    },
+    {
+      "id": "desirefx_me_143_carpaint_0",
+      "node": "desirefx_me_143_carpaint_0"
+    },
+    {
+      "id": "desirefx_me_144_material__1_0",
+      "node": "desirefx_me_144_Material__1_0"
+    },
+    {
+      "id": "desirefx_me_144_material__2_0",
+      "node": "desirefx_me_144_Material__2_0"
+    },
+    {
+      "id": "desirefx_me_144_material__3_0",
+      "node": "desirefx_me_144_Material__3_0"
+    },
+    {
+      "id": "desirefx_me_144_material__4_0",
+      "node": "desirefx_me_144_Material__4_0"
+    },
+    {
+      "id": "desirefx_me_145_material__1_0",
+      "node": "desirefx_me_145_Material__1_0"
+    },
+    {
+      "id": "desirefx_me_145_material__2_0",
+      "node": "desirefx_me_145_Material__2_0"
+    },
+    {
+      "id": "desirefx_me_145_material__3_0",
+      "node": "desirefx_me_145_Material__3_0"
+    },
+    {
+      "id": "desirefx_me_145_material__4_0",
+      "node": "desirefx_me_145_Material__4_0"
+    }
+  ]
+}
