@@ -1,6 +1,6 @@
 {
   "meta": {
-    "brand": "Ferrari",
+    "brand": "Toyota",
     "model": "F488",
     "difficulty": "easy",
     "pieceCount": 155
@@ -242,8 +242,8 @@
       "node": "SM_Soft_0000001_MAT_Details_MAT_0"
     },
     {
-      "id": "sm_root_488_pista_spider_2022.001_mtl_carpaint_base_0",
-      "node": "SM_Root_488_Pista_Spider_2022.001_MTL_CarPaint_Base_0"
+      "id": "sm_root_488_pista_spider_2022001_mtl_carpaint_base_0",
+      "node": "SM_Root_488_Pista_Spider_2022001_MTL_CarPaint_Base_0"
     },
     {
       "id": "sm_rearkit_0000001_mtl_carpaint_base_0",
