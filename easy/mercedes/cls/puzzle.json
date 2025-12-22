@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "brand": "Mercedes",
+    "model": "CLS",
+    "difficulty": "easy",
+    "pieceCount": 38
+  },
+  "asset": {
+    "model": "cls.glb"
+  },
+  "pieces": [
+    {
+      "id": "cls500w219_body_cls500_body_0",
+      "node": "CLS500w219_body_CLS500_body_0"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0001",
+      "node": "CLS500w219_body_CLS500_body_0001"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0002",
+      "node": "CLS500w219_body_CLS500_body_0002"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0003",
+      "node": "CLS500w219_body_CLS500_body_0003"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0004",
+      "node": "CLS500w219_body_CLS500_body_0004"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0005",
+      "node": "CLS500w219_body_CLS500_body_0005"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0006",
+      "node": "CLS500w219_body_CLS500_body_0006"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0007",
+      "node": "CLS500w219_body_CLS500_body_0007"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0008",
+      "node": "CLS500w219_body_CLS500_body_0008"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0009",
+      "node": "CLS500w219_body_CLS500_body_0009"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0010",
+      "node": "CLS500w219_body_CLS500_body_0010"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0011",
+      "node": "CLS500w219_body_CLS500_body_0011"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0012",
+      "node": "CLS500w219_body_CLS500_body_0012"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0013",
+      "node": "CLS500w219_body_CLS500_body_0013"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0014",
+      "node": "CLS500w219_body_CLS500_body_0014"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0015",
+      "node": "CLS500w219_body_CLS500_body_0015"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0016",
+      "node": "CLS500w219_body_CLS500_body_0016"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0017",
+      "node": "CLS500w219_body_CLS500_body_0017"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0018",
+      "node": "CLS500w219_body_CLS500_body_0018"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0019",
+      "node": "CLS500w219_body_CLS500_body_0019"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0020",
+      "node": "CLS500w219_body_CLS500_body_0020"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0021",
+      "node": "CLS500w219_body_CLS500_body_0021"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0022",
+      "node": "CLS500w219_body_CLS500_body_0022"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0023",
+      "node": "CLS500w219_body_CLS500_body_0023"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0024",
+      "node": "CLS500w219_body_CLS500_body_0024"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0025",
+      "node": "CLS500w219_body_CLS500_body_0025"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0026",
+      "node": "CLS500w219_body_CLS500_body_0026"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0027",
+      "node": "CLS500w219_body_CLS500_body_0027"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0028",
+      "node": "CLS500w219_body_CLS500_body_0028"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0029",
+      "node": "CLS500w219_body_CLS500_body_0029"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0030",
+      "node": "CLS500w219_body_CLS500_body_0030"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0031",
+      "node": "CLS500w219_body_CLS500_body_0031"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0032",
+      "node": "CLS500w219_body_CLS500_body_0032"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0033",
+      "node": "CLS500w219_body_CLS500_body_0033"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0034",
+      "node": "CLS500w219_body_CLS500_body_0034"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0035",
+      "node": "CLS500w219_body_CLS500_body_0035"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0036",
+      "node": "CLS500w219_body_CLS500_body_0036"
+    },
+    {
+      "id": "cls500w219_body_cls500_body_0037",
+      "node": "CLS500w219_body_CLS500_body_0037"
+    }
+  ]
+}
