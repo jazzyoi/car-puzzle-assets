@@ -60,13 +60,14 @@
     },
     "medium": {
         "Toyota": {
-            "Supra": { "prefix": "part", "count": 5 }
+            "Supra": { "prefix": "part", "count": "5" }
         }
     },
     "hard": {
         "Ferrari": {
-            "F40": { "prefix": "part", "count": 8 } 
+            "F40": { "prefix": "part", "count": "8" } 
         }
     }
 }
+
 
