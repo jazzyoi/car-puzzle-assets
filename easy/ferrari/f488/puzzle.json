@@ -1,0 +1,633 @@
+{
+  "meta": {
+    "brand": "Ferrari",
+    "model": "F488",
+    "difficulty": "easy",
+    "pieceCount": 155
+  },
+  "asset": {
+    "model": "f488.glb"
+  },
+  "pieces": [
+    {
+      "id": "polysurface485_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface485_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface484_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface484_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface480_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface480_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface478_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface478_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface474_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface474_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface473_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface473_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface472_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface472_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface469_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface469_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface468_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface468_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface467_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface467_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface466_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface466_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface465_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface465_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface464_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface464_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface462_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface462_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface461_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface461_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface460_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface460_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface364_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface364_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface361_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface361_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface360_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface360_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface359_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface359_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface357_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface357_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface355_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface355_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface354_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface354_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface353_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface353_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface349_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface349_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface348_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface348_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface341_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface341_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface241_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface241_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface240_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface240_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface238_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface238_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface233_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface233_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface231_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface231_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface230_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface230_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface227_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface227_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface224_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface224_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface219_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface219_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface218_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface218_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface217_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface217_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface216_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface216_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface211_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface211_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface119_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface119_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface116_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface116_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface114_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface114_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface113_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface113_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface112_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface112_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface111_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface111_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface109_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface109_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface106_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface106_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface105_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface105_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface103_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface103_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface102_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface102_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface100_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface100_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface99_ferrari_812competizionerewardrecycled_2021_wheel1",
+      "node": "polySurface99_Ferrari_812CompetizioneRewardRecycled_2021_Wheel1"
+    },
+    {
+      "id": "polysurface98_ferrari_812competizionerewardrecycled_2021_wheel1",
+      "node": "polySurface98_Ferrari_812CompetizioneRewardRecycled_2021_Wheel1"
+    },
+    {
+      "id": "polysurface97_ferrari_812competizionerewardrecycled_2021_wheel1",
+      "node": "polySurface97_Ferrari_812CompetizioneRewardRecycled_2021_Wheel1"
+    },
+    {
+      "id": "sm_soft_0000001_mtl_carpaint_base_0",
+      "node": "SM_Soft_0000001_MTL_CarPaint_Base_0"
+    },
+    {
+      "id": "sm_soft_0000001_mat_details_ext_0",
+      "node": "SM_Soft_0000001_MAT_Details_EXT_0"
+    },
+    {
+      "id": "sm_soft_0000001_mat_details_mat_0",
+      "node": "SM_Soft_0000001_MAT_Details_MAT_0"
+    },
+    {
+      "id": "sm_root_488_pista_spider_2022.001_mtl_carpaint_base_0",
+      "node": "SM_Root_488_Pista_Spider_2022.001_MTL_CarPaint_Base_0"
+    },
+    {
+      "id": "sm_rearkit_0000001_mtl_carpaint_base_0",
+      "node": "SM_RearKit_0000001_MTL_CarPaint_Base_0"
+    },
+    {
+      "id": "sm_rearkit_0000001_mat_488_spider_01_carbon_0",
+      "node": "SM_RearKit_0000001_MAT_488_Spider_01_Carbon_0"
+    },
+    {
+      "id": "sm_rearkit_0000001_mat_glass_0",
+      "node": "SM_RearKit_0000001_MAT_Glass_0"
+    },
+    {
+      "id": "sm_rearkit_0000001_mat_lights_0",
+      "node": "SM_RearKit_0000001_MAT_Lights_0"
+    },
+    {
+      "id": "sm_rearkit_0000001_mat_details_ext_0",
+      "node": "SM_RearKit_0000001_MAT_Details_EXT_0"
+    },
+    {
+      "id": "sm_rearkit_0000001_mat_details_mat_0",
+      "node": "SM_RearKit_0000001_MAT_Details_MAT_0"
+    },
+    {
+      "id": "sm_rearkit_0000001_mat_details_grid_01001_0",
+      "node": "SM_RearKit_0000001_MAT_Details_Grid_01001_0"
+    },
+    {
+      "id": "sm_rearkit_0000001_mat_details_grid_02_0",
+      "node": "SM_RearKit_0000001_MAT_Details_Grid_02_0"
+    },
+    {
+      "id": "sm_rearkit_0000001_mat_details_chassis_0001_0",
+      "node": "SM_RearKit_0000001_MAT_Details_Chassis_0001_0"
+    },
+    {
+      "id": "sm_interior_0000001_mtl_carpaint_base_0",
+      "node": "SM_Interior_0000001_MTL_CarPaint_Base_0"
+    },
+    {
+      "id": "sm_interior_0000001_mat_488_spider_01_carbon_0",
+      "node": "SM_Interior_0000001_MAT_488_Spider_01_Carbon_0"
+    },
+    {
+      "id": "sm_interior_0000001_black_carbon_0",
+      "node": "SM_Interior_0000001_Black_Carbon_0"
+    },
+    {
+      "id": "sm_interior_0000001_mat_details_int_0",
+      "node": "SM_Interior_0000001_MAT_Details_INT_0"
+    },
+    {
+      "id": "sm_interior_0000001_mat_details_mat_0",
+      "node": "SM_Interior_0000001_MAT_Details_MAT_0"
+    },
+    {
+      "id": "sm_interior_0000001_mat_details_grid_02_0",
+      "node": "SM_Interior_0000001_MAT_Details_Grid_02_0"
+    },
+    {
+      "id": "sm_hood_0000001_mtl_carpaint_base_0",
+      "node": "SM_Hood_0000001_MTL_CarPaint_Base_0"
+    },
+    {
+      "id": "sm_hood_0000001_mat_details_mat_0",
+      "node": "SM_Hood_0000001_MAT_Details_MAT_0"
+    },
+    {
+      "id": "sm_frontkit_0000001_mtl_carpaint_base_0",
+      "node": "SM_FrontKit_0000001_MTL_CarPaint_Base_0"
+    },
+    {
+      "id": "sm_frontkit_0000001_mat_488_spider_01_carbon_0",
+      "node": "SM_FrontKit_0000001_MAT_488_Spider_01_Carbon_0"
+    },
+    {
+      "id": "sm_frontkit_0000001_mat_glass_0",
+      "node": "SM_FrontKit_0000001_MAT_Glass_0"
+    },
+    {
+      "id": "sm_frontkit_0000001_mat_lights_0",
+      "node": "SM_FrontKit_0000001_MAT_Lights_0"
+    },
+    {
+      "id": "sm_frontkit_0000001_mat_details_ext_0",
+      "node": "SM_FrontKit_0000001_MAT_Details_EXT_0"
+    },
+    {
+      "id": "sm_frontkit_0000001_mat_details_mat_0",
+      "node": "SM_FrontKit_0000001_MAT_Details_MAT_0"
+    },
+    {
+      "id": "sm_frontkit_0000001_mat_details_grid_01001_0",
+      "node": "SM_FrontKit_0000001_MAT_Details_Grid_01001_0"
+    },
+    {
+      "id": "sm_frontkit_0000001_mat_details_chassis_0001_0",
+      "node": "SM_FrontKit_0000001_MAT_Details_Chassis_0001_0"
+    },
+    {
+      "id": "sm_base_0000001_mtl_carpaint_base_0",
+      "node": "SM_Base_0000001_MTL_CarPaint_Base_0"
+    },
+    {
+      "id": "sm_base_0000001_mat_glass_0",
+      "node": "SM_Base_0000001_MAT_Glass_0"
+    },
+    {
+      "id": "sm_base_0000001_mat_details_ext_0",
+      "node": "SM_Base_0000001_MAT_Details_EXT_0"
+    },
+    {
+      "id": "sm_base_0000001_mat_details_mat_0",
+      "node": "SM_Base_0000001_MAT_Details_MAT_0"
+    },
+    {
+      "id": "sm_hub_l_0000001_mat_tire_hub_0",
+      "node": "SM_Hub_L_0000001_MAT_Tire_Hub_0"
+    },
+    {
+      "id": "sm_disk_l_0000001_mat_tire_disk_0",
+      "node": "SM_Disk_L_0000001_MAT_Tire_Disk_0"
+    },
+    {
+      "id": "sm_brake_fl_0000001_mat_tire_brake_0",
+      "node": "SM_Brake_FL_0000001_MAT_Tire_Brake_0"
+    },
+    {
+      "id": "sm_hub_l_0000001_mat_tire_hub_0001",
+      "node": "SM_Hub_L_0000001_MAT_Tire_Hub_0001"
+    },
+    {
+      "id": "sm_disk_l_0000001_mat_tire_disk_0001",
+      "node": "SM_Disk_L_0000001_MAT_Tire_Disk_0001"
+    },
+    {
+      "id": "sm_brake_rr_0000001_mat_tire_brake_0",
+      "node": "SM_Brake_RR_0000001_MAT_Tire_Brake_0"
+    },
+    {
+      "id": "sm_hub_r_0000001_mat_tire_hub_0",
+      "node": "SM_Hub_R_0000001_MAT_Tire_Hub_0"
+    },
+    {
+      "id": "sm_brake_fr_0000001_mat_tire_brake_0",
+      "node": "SM_Brake_FR_0000001_MAT_Tire_Brake_0"
+    },
+    {
+      "id": "sm_disk_r_0000001_mat_tire_disk_0",
+      "node": "SM_Disk_R_0000001_MAT_Tire_Disk_0"
+    },
+    {
+      "id": "sm_hub_r_0000001_mat_tire_hub_0001",
+      "node": "SM_Hub_R_0000001_MAT_Tire_Hub_0001"
+    },
+    {
+      "id": "sm_brake_rl_0000001_mat_tire_brake_0",
+      "node": "SM_Brake_RL_0000001_MAT_Tire_Brake_0"
+    },
+    {
+      "id": "sm_disk_r_0000001_mat_tire_disk_0001",
+      "node": "SM_Disk_R_0000001_MAT_Tire_Disk_0001"
+    },
+    {
+      "id": "polysurface485_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface485_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface484_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface484_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface480_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface480_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface478_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface478_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface474_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface474_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface473_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface473_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface472_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface472_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface469_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface469_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface468_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface468_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface467_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface467_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface466_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface466_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface465_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface465_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface464_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface464_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface462_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface462_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface461_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface461_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface460_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface460_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface364_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface364_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface361_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface361_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface360_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface360_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface359_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface359_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface357_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface357_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface355_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface355_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface354_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface354_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface353_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface353_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface349_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface349_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface348_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface348_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface341_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface341_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface241_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface241_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface240_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface240_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface238_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface238_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface233_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface233_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface231_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface231_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface230_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface230_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface227_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface227_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface224_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface224_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface219_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface219_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface218_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface218_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface217_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface217_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface216_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface216_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface211_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface211_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface119_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface119_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface116_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface116_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface114_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface114_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface113_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface113_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface112_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface112_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface111_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface111_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface109_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface109_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface106_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface106_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface105_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface105_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface103_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface103_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface102_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface102_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface100_ferrari_812competizionerewardrecycled_2021_whee",
+      "node": "polySurface100_Ferrari_812CompetizioneRewardRecycled_2021_Whee"
+    },
+    {
+      "id": "polysurface99_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface99_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface98_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface98_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    },
+    {
+      "id": "polysurface97_ferrari_812competizionerewardrecycled_2021_wheel",
+      "node": "polySurface97_Ferrari_812CompetizioneRewardRecycled_2021_Wheel"
+    }
+  ]
+}
