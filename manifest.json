@@ -52,7 +52,8 @@
         },
         "Mercedes": {
             "V-Class": { "type": "github", "path": "easy/mercedes/v-class" },
-            "CLS"    : { "type": "github", "path": "easy/mercedes/cls" }
+            "CLS"    : { "type": "github", "path": "easy/mercedes/cls" },
+             "SL65": { "type": "github", "path": "easy/mercedes/sl65" }
         },
         "Vw": {
             "Beetle": { "type": "github", "path": "easy/vw/beetle" } ,
@@ -70,6 +71,7 @@
         }
     }
 }
+
 
 
 
