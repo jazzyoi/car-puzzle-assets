@@ -32,6 +32,7 @@
             "Camry":   { "type": "github", "path": "easy/toyota/camry" },
             "Corolla": { "type": "github", "path": "easy/toyota/corolla"}, 
             "Crown":   { "type": "github", "path": "easy/toyota/crown" } ,
+            "LC-500":   { "type": "github", "path": "easy/toyota/lc-500" } ,
             "Innova":  { "type": "github", "path": "easy/toyota/innova" } 
         },
         "Honda": {
@@ -69,6 +70,7 @@
         }
     }
 }
+
 
 
 
