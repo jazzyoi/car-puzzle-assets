@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "brand": "Toyota",
+    "model": "LC-500",
+    "difficulty": "easy",
+    "pieceCount": 26
+  },
+  "asset": {
+    "model": "lc-500.glb"
+  },
+  "pieces": [
+    {
+      "id": "object_5",
+      "node": "Object_5"
+    },
+    {
+      "id": "object_19",
+      "node": "Object_19"
+    },
+    {
+      "id": "object_21",
+      "node": "Object_21"
+    },
+    {
+      "id": "object_22",
+      "node": "Object_22"
+    },
+    {
+      "id": "object_23",
+      "node": "Object_23"
+    },
+    {
+      "id": "object_24",
+      "node": "Object_24"
+    },
+    {
+      "id": "object_26",
+      "node": "Object_26"
+    },
+    {
+      "id": "object_27",
+      "node": "Object_27"
+    },
+    {
+      "id": "object_33",
+      "node": "Object_33"
+    },
+    {
+      "id": "object_38",
+      "node": "Object_38"
+    },
+    {
+      "id": "object_39",
+      "node": "Object_39"
+    },
+    {
+      "id": "object_40",
+      "node": "Object_40"
+    },
+    {
+      "id": "object_47",
+      "node": "Object_47"
+    },
+    {
+      "id": "object_63",
+      "node": "Object_63"
+    },
+    {
+      "id": "object_65",
+      "node": "Object_65"
+    },
+    {
+      "id": "object_38001",
+      "node": "Object_38001"
+    },
+    {
+      "id": "object_38002",
+      "node": "Object_38002"
+    },
+    {
+      "id": "object_38003",
+      "node": "Object_38003"
+    },
+    {
+      "id": "object_6001",
+      "node": "Object_6001"
+    },
+    {
+      "id": "object_6002",
+      "node": "Object_6002"
+    },
+    {
+      "id": "object_6003",
+      "node": "Object_6003"
+    },
+    {
+      "id": "object_53002",
+      "node": "Object_53002"
+    },
+    {
+      "id": "object_57002",
+      "node": "Object_57002"
+    },
+    {
+      "id": "object_62002",
+      "node": "Object_62002"
+    },
+    {
+      "id": "object_64002",
+      "node": "Object_64002"
+    },
+    {
+      "id": "object_6004",
+      "node": "Object_6004"
+    }
+  ]
+}
