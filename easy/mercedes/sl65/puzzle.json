@@ -1,7 +1,6 @@
 {
   "meta": {
     "brand": "Mercedes",
-    "series": "SL65",
     "model": "SL65",
     "difficulty": "easy",
     "pieceCount": 54
@@ -227,4 +226,5 @@
       "node": "Object_168.002"
     }
   ]
+
 }
