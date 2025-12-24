@@ -1,7 +1,8 @@
 {
     "easy": {
          "AUDI": {
-            "Etron": { "type": "github", "path": "easy/audi/etron" }
+            "Etron": { "type": "github", "path": "easy/audi/etron" },
+            "Lily": { "type": "github", "path": "easy/audi/lily" }
         },
          "BYD": {
             "Atto": { "type": "github", "path": "easy/byd/atto" },
@@ -77,6 +78,7 @@
         }
     }
 }
+
 
 
 
