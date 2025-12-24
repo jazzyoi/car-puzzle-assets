@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "brand": "AUDI",
+    "model": "Lily",
+    "difficulty": "easy",
+    "pieceCount": 13
+  },
+  "asset": {
+    "model": "lily.glb"
+  },
+  "pieces": [
+    {
+      "id": "object_2",
+      "node": "Object_2"
+    },
+    {
+      "id": "object_2001",
+      "node": "Object_2001"
+    },
+    {
+      "id": "object_2002",
+      "node": "Object_2002"
+    },
+    {
+      "id": "object_2003",
+      "node": "Object_2003"
+    },
+    {
+      "id": "object_2004",
+      "node": "Object_2004"
+    },
+    {
+      "id": "object_2005",
+      "node": "Object_2005"
+    },
+    {
+      "id": "object_2006",
+      "node": "Object_2006"
+    },
+    {
+      "id": "object_2007",
+      "node": "Object_2007"
+    },
+    {
+      "id": "object_2008",
+      "node": "Object_2008"
+    },
+    {
+      "id": "object_2009",
+      "node": "Object_2009"
+    },
+    {
+      "id": "object_3001",
+      "node": "Object_3001"
+    },
+    {
+      "id": "object_3002",
+      "node": "Object_3002"
+    },
+    {
+      "id": "object_3004",
+      "node": "Object_3004"
+    }
+  ]
+}
