@@ -31,6 +31,9 @@
         "Force": {
             "Nine11": { "type": "github", "path": "easy/force/nine11" }
         },
+        "Hummer": {
+            "H2": { "type": "github", "path": "easy/hummer/h2" }
+        },
         "Toyota": {
             "Camry":   { "type": "github", "path": "easy/toyota/camry" },
             "Corolla": { "type": "github", "path": "easy/toyota/corolla"}, 
@@ -74,6 +77,7 @@
         }
     }
 }
+
 
 
 
