@@ -1,6 +1,6 @@
 {
   "meta": {
-    "brand": "Harleu",
+    "brand": "Harley",
     "model": "Iron-2018",
     "difficulty": "easy",
     "pieceCount": 51
@@ -214,4 +214,5 @@
       "node": "tanque_002_0"
     }
   ]
+
 }
