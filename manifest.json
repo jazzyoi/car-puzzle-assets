@@ -50,12 +50,13 @@
             "Santafe": { "type": "github", "path": "easy/hyundai/santafe" }
         },
         "Lamborgini": {
-            "Temerario": { "type": "github", "path": "easy/lamborgini/temerario" } ,
-            "ferzor"   : { "type": "github", "path": "easy/lamborgini/ferzor" } ,
-            "Gallardo" : { "type": "github", "path": "easy/lamborgini/gallardo" },
-            "Aventador": { "type": "github", "path": "easy/lamborgini/aventador" },
-            "Revuelto" : { "type": "github", "path": "easy/lamborgini/revuelto" },
-            "Huracan"  : { "type": "github", "path": "easy/lamborgini/huracan" } 
+            "Temerario"  : { "type": "github", "path": "easy/lamborgini/temerario" } ,
+            "ferzor"     : { "type": "github", "path": "easy/lamborgini/ferzor" } ,
+            "Gallardo"   : { "type": "github", "path": "easy/lamborgini/gallardo" },
+            "Aventador"  : { "type": "github", "path": "easy/lamborgini/aventador" },
+            "Revuelto"   : { "type": "github", "path": "easy/lamborgini/revuelto" },
+            "Huracan"    : { "type": "github", "path": "easy/lamborgini/huracan" },
+            "Urus-2019"  : { "type": "github", "path": "easy/lamborgini/urus-2019" } 
         },
         "Mercedes": {
             "V-Class": { "type": "github", "path": "easy/mercedes/v-class" },
@@ -78,6 +79,7 @@
         }
     }
 }
+
 
 
 
