@@ -20,14 +20,14 @@
             "M5" : { "type": "github", "path": "easy/bmw/m5" },
             "x5" : { "type": "github", "path": "easy/bmw/x5" } 
         },
-        "Ferrari": {
-            "F40": { "type": "github", "path": "easy/ferrari/f40" },
-            "F430": { "type": "github", "path": "easy/ferrari/f430" },
-            "F488": { "type": "github", "path": "easy/ferrari/f488" },
-            "F812": { "type": "github", "path": "easy/ferrari/f812" },
-            "SF90": { "type": "github", "path": "easy/ferrari/sf90" },
-            "Roma": { "type": "github", "path": "easy/ferrari/roma" },
-            "Cilindri": { "type": "github", "path": "easy/ferrari/cilindri" }
+        "Ferrari"      : {
+            "F40"      : { "type": "github", "path": "easy/ferrari/f40" },
+            "F430"     : { "type": "github", "path": "easy/ferrari/f430" },
+            "F488"     : { "type": "github", "path": "easy/ferrari/f488" },
+            "F812"     : { "type": "github", "path": "easy/ferrari/f812" },
+            "SF90"     : { "type": "github", "path": "easy/ferrari/sf90" },
+            "Roma-2020": { "type": "github", "path": "easy/ferrari/roma-2020" },
+            "Cilindri" : { "type": "github", "path": "easy/ferrari/cilindri" }
         },
         "Force": {
             "Nine11": { "type": "github", "path": "easy/force/nine11" }
@@ -87,6 +87,7 @@
         }
     }
 }
+
 
 
 
