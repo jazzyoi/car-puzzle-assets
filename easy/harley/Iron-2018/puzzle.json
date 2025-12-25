@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "brand": "Harley",
+    "model": "Iron-2018",
+    "difficulty": "easy",
+    "pieceCount": 51
+  },
+  "asset": {
+    "model": "iron-2018.glb"
+  },
+  "pieces": [
+    {
+      "id": "guardabarros trasero_0",
+      "node": "guardabarros trasero_0"
+    },
+    {
+      "id": "guardabarros trasero_1",
+      "node": "guardabarros trasero_1"
+    },
+    {
+      "id": "suspension trasera_0",
+      "node": "suspension trasera_0"
+    },
+    {
+      "id": "tapas traseras_0",
+      "node": "tapas traseras_0"
+    },
+    {
+      "id": "tapas traseras_1",
+      "node": "tapas traseras_1"
+    },
+    {
+      "id": "tapas traseras_2",
+      "node": "tapas traseras_2"
+    },
+    {
+      "id": "tapas traseras_3",
+      "node": "tapas traseras_3"
+    },
+    {
+      "id": "asiento_0",
+      "node": "asiento_0"
+    },
+    {
+      "id": "rueda trasera_0",
+      "node": "rueda trasera_0"
+    },
+    {
+      "id": "rueda trasera_1",
+      "node": "rueda trasera_1"
+    },
+    {
+      "id": "neumatico trasero_0",
+      "node": "neumatico trasero_0"
+    },
+    {
+      "id": "cube_002_0",
+      "node": "Cube_002_0"
+    },
+    {
+      "id": "cube_002_1",
+      "node": "Cube_002_1"
+    },
+    {
+      "id": "neumatico delantero_0",
+      "node": "neumatico delantero_0"
+    },
+    {
+      "id": "rueda delantera_0",
+      "node": "rueda delantera_0"
+    },
+    {
+      "id": "barras_0",
+      "node": "barras_0"
+    },
+    {
+      "id": "barras_1",
+      "node": "barras_1"
+    },
+    {
+      "id": "barras_2",
+      "node": "barras_2"
+    },
+    {
+      "id": "barras_3",
+      "node": "barras_3"
+    },
+    {
+      "id": "tanque_0",
+      "node": "tanque_0"
+    },
+    {
+      "id": "tanque_1",
+      "node": "tanque_1"
+    },
+    {
+      "id": "freno disco_0",
+      "node": "freno disco_0"
+    },
+    {
+      "id": "manubrio_0",
+      "node": "manubrio_0"
+    },
+    {
+      "id": "manubrio_1",
+      "node": "manubrio_1"
+    },
+    {
+      "id": "manubrio_2",
+      "node": "manubrio_2"
+    },
+    {
+      "id": "manubrio_3",
+      "node": "manubrio_3"
+    },
+    {
+      "id": "espejos_0",
+      "node": "espejos_0"
+    },
+    {
+      "id": "espejos_1",
+      "node": "espejos_1"
+    },
+    {
+      "id": "cube_009_0",
+      "node": "Cube_009_0"
+    },
+    {
+      "id": "barras_001_0",
+      "node": "barras_001_0"
+    },
+    {
+      "id": "barras_001_1",
+      "node": "barras_001_1"
+    },
+    {
+      "id": "placa_0",
+      "node": "PLACA_0"
+    },
+    {
+      "id": "mofles_0",
+      "node": "mofles_0"
+    },
+    {
+      "id": "mofles_1",
+      "node": "mofles_1"
+    },
+    {
+      "id": "motor_0",
+      "node": "motor_0"
+    },
+    {
+      "id": "motor_1",
+      "node": "motor_1"
+    },
+    {
+      "id": "tapas traseras_003_0",
+      "node": "tapas traseras_003_0"
+    },
+    {
+      "id": "motor_001_0",
+      "node": "motor_001_0"
+    },
+    {
+      "id": "motor_001_1",
+      "node": "motor_001_1"
+    },
+    {
+      "id": "tanque_001_0",
+      "node": "tanque_001_0"
+    },
+    {
+      "id": "tecometro_0",
+      "node": "tecometro_0"
+    },
+    {
+      "id": "tecometro_1",
+      "node": "tecometro_1"
+    },
+    {
+      "id": "rueda delantera_001_0",
+      "node": "rueda delantera_001_0"
+    },
+    {
+      "id": "freno disco delantero_0",
+      "node": "freno disco delantero_0"
+    },
+    {
+      "id": "freno_0",
+      "node": "freno_0"
+    },
+    {
+      "id": "manubrio_001_0",
+      "node": "manubrio_001_0"
+    },
+    {
+      "id": "barras_002_0",
+      "node": "barras_002_0"
+    },
+    {
+      "id": "barras_003_0",
+      "node": "barras_003_0"
+    },
+    {
+      "id": "barras_004_0",
+      "node": "barras_004_0"
+    },
+    {
+      "id": "rueda trasera_001_0",
+      "node": "rueda trasera_001_0"
+    },
+    {
+      "id": "tanque_002_0",
+      "node": "tanque_002_0"
+    }
+  ]
+}
