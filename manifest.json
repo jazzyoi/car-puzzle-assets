@@ -33,7 +33,7 @@
             "Nine11": { "type": "github", "path": "easy/force/nine11" }
         },
          "Harley": {
-            "Iron-2018": { "type": "github", "path": "easy/harleu/iron-2018" }
+            "Iron-2018": { "type": "github", "path": "easy/harley/iron-2018" }
         },
         "Hummer": {
             "H2": { "type": "github", "path": "easy/hummer/h2" }
@@ -84,6 +84,7 @@
         }
     }
 }
+
 
 
 
