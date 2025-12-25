@@ -18,12 +18,12 @@
       "node": "WindowInside_Geo_lodA_Ferrari_SF90XXStradale_2024WindowInside_M"
     },
     {
-      "id": "body_:paint_geo_lodabody_loda_ferrari_sf90xxstradale_2024paint_",
-      "node": "body_:Paint_Geo_lodABody_lodA_Ferrari_SF90XXStradale_2024Paint_"
+      "id": "body_paint_geo_lodabody_loda_ferrari_sf90xxstradale_2024paint_",
+      "node": "body_Paint_Geo_lodABody_lodA_Ferrari_SF90XXStradale_2024Paint_"
     },
     {
-      "id": "body_:paint_geo_lodabody_loda_phong1_0",
-      "node": "body_:Paint_Geo_lodABody_lodA_phong1_0"
+      "id": "body_paint_geo_lodabody_loda_phong1_0",
+      "node": "body_Paint_Geo_lodABody_lodA_phong1_0"
     },
     {
       "id": "window_geo_loda_ferrari_sf90xxstradale_2024window_material_0",
