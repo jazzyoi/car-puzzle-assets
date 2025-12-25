@@ -1,6 +1,6 @@
 {
   "meta": {
-    "brand": "Lamborghini",
+    "brand": "Lamborgini",
     "model": "Urus-2025",
     "difficulty": "easy",
     "pieceCount": 35
@@ -150,4 +150,5 @@
       "node": "Icosphere"
     }
   ]
+
 }
