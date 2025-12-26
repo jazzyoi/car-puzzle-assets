@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "brand": "Ferrari",
+    "series": "sp38-2018",
+    "model": "supercar",
+    "difficulty": "easy",
+    "pieceCount": 22
+  },
+  "asset": {
+    "model": "sp38-2018.glb"
+  },
+  "pieces": [
+    {
+      "id": "cabin_tela_2_0",
+      "node": "Cabin_Tela_2_0"
+    },
+    {
+      "id": "rear_lights_red_inner_dark_metal_0",
+      "node": "Rear_Lights_Red_Inner_DARK_METAL_0"
+    },
+    {
+      "id": "exhaust_tube_black_inner_dark_metal_0",
+      "node": "Exhaust_Tube_Black_Inner_DARK_METAL_0"
+    },
+    {
+      "id": "deflectors_red_carbon_0",
+      "node": "Deflectors_red_CARBON_0"
+    },
+    {
+      "id": "carbody_central_paint_0",
+      "node": "Carbody_Central_PAINT_0"
+    },
+    {
+      "id": "windshield_mask_black_sh_0",
+      "node": "Windshield_Mask_Black_SH_0"
+    },
+    {
+      "id": "windshield_glass_0",
+      "node": "Windshield_GLASS_0"
+    },
+    {
+      "id": "floor_black_chassis_0",
+      "node": "Floor_Black_CHASSIS_0"
+    },
+    {
+      "id": "logo_shield_yellow_badges_0",
+      "node": "Logo_Shield_Yellow_BADGES_0"
+    },
+    {
+      "id": "front_bumper_fog_lamps_glass_clear_glass_0",
+      "node": "Front_Bumper_Fog_Lamps_Glass_Clear_GLASS_0"
+    },
+    {
+      "id": "logo_rear_chrome_chrome_metal_0",
+      "node": "Logo_Rear_Chrome_CHROME_METAL_0"
+    },
+    {
+      "id": "exhaust_tube_chrome_external_chrome_metal_0",
+      "node": "Exhaust_Tube_Chrome_External_CHROME_METAL_0"
+    },
+    {
+      "id": "brake_disk001_break_disk_0",
+      "node": "Brake_Disk001_BREAK_DISK_0"
+    },
+    {
+      "id": "wheel_rubber001_neumat_0",
+      "node": "Wheel_Rubber001_NEUMAT_0"
+    },
+    {
+      "id": "002-0-004_chrome_metal_0",
+      "node": "002-0-004_CHROME_METAL_0"
+    },
+    {
+      "id": "brake_calipers_paint_0002",
+      "node": "Brake_Calipers_PAINT_0002"
+    },
+    {
+      "id": "carbody_hood_trunk_paint_0001",
+      "node": "Carbody_Hood_TRUNK_PAINT_0001"
+    },
+    {
+      "id": "carbody_hood_trunk_paint_0003",
+      "node": "Carbody_Hood_TRUNK_PAINT_0003"
+    },
+    {
+      "id": "carbody_hood_trunk_paint_0002",
+      "node": "Carbody_Hood_TRUNK_PAINT_0002"
+    },
+    {
+      "id": "carbody_hood_trunk_paint_0005",
+      "node": "Carbody_Hood_TRUNK_PAINT_0005"
+    },
+    {
+      "id": "carbody_hood_trunk_paint_0004",
+      "node": "Carbody_Hood_TRUNK_PAINT_0004"
+    },
+    {
+      "id": "floor_black_chassis_0001",
+      "node": "Floor_Black_CHASSIS_0001"
+    }
+  ]
+}
