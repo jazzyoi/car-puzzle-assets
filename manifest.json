@@ -27,6 +27,7 @@
             "F812"     : { "type": "github", "path": "easy/ferrari/f812" },
             "SF90"     : { "type": "github", "path": "easy/ferrari/sf90" },
             "Roma-2020": { "type": "github", "path": "easy/ferrari/roma-2020" },
+            "Sp38-2018": { "type": "github", "path": "easy/ferrari/sp38-2018" },
             "Cilindri" : { "type": "github", "path": "easy/ferrari/cilindri" }
         },
         "Force": {
@@ -87,6 +88,7 @@
         }
     }
 }
+
 
 
 
