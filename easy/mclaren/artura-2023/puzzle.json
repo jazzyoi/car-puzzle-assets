@@ -1,13 +1,12 @@
 {
   "meta": {
     "brand": "McLaren",
-    "series": "Artura-2023",
-    "model": "supercar",
+    "model": "Artura-2023",
     "difficulty": "easy",
     "pieceCount": 29
   },
   "asset": {
-    "model": "artura=2023.glb"
+    "model": "artura-2023.glb"
   },
   "pieces": [
     {
@@ -127,4 +126,5 @@
       "node": "Coloured_Geo_lodA_McLaren_ArturaRewardRecycled_2022Coloured_"
     }
   ]
+
 }
