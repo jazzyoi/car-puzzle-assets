@@ -66,7 +66,8 @@
         },
             "Mclaren": {
             "GT-2020"  : { "type": "github", "path": "easy/mclaren/gt-2020" },
-            "570s-2016": { "type": "github", "path": "easy/mclaren/570s-2016" }
+            "570s-2016": { "type": "github", "path": "easy/mclaren/570s-2016" },
+            "Artura-2023": { "type": "github", "path": "easy/mclaren/artura-2023" }
         },
         "Mercedes": {
             "V-Class": { "type": "github", "path": "easy/mercedes/v-class" },
@@ -89,6 +90,7 @@
         }
     }
 }
+
 
 
 
