@@ -1,8 +1,7 @@
 {
   "meta": {
     "brand": "McLaren",
-    "series": "Elva-2021",
-    "model": "supercar",
+    "model": "Elva-2021",
     "difficulty": "easy",
     "pieceCount": 34
   },
@@ -147,4 +146,5 @@
       "node": "body_Kit0_Paint_Geo_lodABody_lodA_McLaren_Elva_2021Paint_Ma025"
     }
   ]
+
 }
