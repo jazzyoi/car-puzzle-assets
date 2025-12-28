@@ -65,9 +65,10 @@
             "Estoque-2008"   : { "type": "github", "path": "easy/lamborgini/estoque-2008" }
         },
             "Mclaren": {
-            "GT-2020"  : { "type": "github", "path": "easy/mclaren/gt-2020" },
-            "570s-2016": { "type": "github", "path": "easy/mclaren/570s-2016" },
-            "Artura-2023": { "type": "github", "path": "easy/mclaren/artura-2023" }
+            "GT-2020"    : { "type": "github", "path": "easy/mclaren/gt-2020" },
+            "570s-2016"  : { "type": "github", "path": "easy/mclaren/570s-2016" },
+            "Artura-2023": { "type": "github", "path": "easy/mclaren/artura-2023" },
+            "Elva-2021"  : { "type": "github", "path": "easy/mclaren/elva-2021" }
         },
         "Mercedes": {
             "V-Class": { "type": "github", "path": "easy/mercedes/v-class" },
@@ -90,6 +91,7 @@
         }
     }
 }
+
 
 
 
