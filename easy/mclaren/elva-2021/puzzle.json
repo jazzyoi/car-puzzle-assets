@@ -3,10 +3,10 @@
     "brand": "McLaren",
     "model": "Elva-2021",
     "difficulty": "easy",
-    "pieceCount": 34
+    "pieceCount": 43
   },
   "asset": {
-    "model": "elva-2021.glb"
+    "model": "supercar.glb"
   },
   "pieces": [
     {
@@ -82,10 +82,6 @@
       "node": "body_Kit0_Paint_Geo_lodABody_lodA_McLaren_Elva_2021Paint_Ma008"
     },
     {
-      "id": "body_kit0_paint_geo_lodabody_loda_mclaren_elva_2021paint_ma009",
-      "node": "body_Kit0_Paint_Geo_lodABody_lodA_McLaren_Elva_2021Paint_Ma009"
-    },
-    {
       "id": "body_kit0_paint_geo_lodabody_loda_mclaren_elva_2021paint_ma010",
       "node": "body_Kit0_Paint_Geo_lodABody_lodA_McLaren_Elva_2021Paint_Ma010"
     },
@@ -144,7 +140,46 @@
     {
       "id": "body_kit0_paint_geo_lodabody_loda_mclaren_elva_2021paint_ma025",
       "node": "body_Kit0_Paint_Geo_lodABody_lodA_McLaren_Elva_2021Paint_Ma025"
+    },
+    {
+      "id": "body_kit0_paint_geo_lodabody_loda_mclaren_elva_2021paint_ma00",
+      "node": "body_Kit0_Paint_Geo_lodABody_lodA_McLaren_Elva_2021Paint_Ma00"
+    },
+    {
+      "id": "body_kit0_paint_geo_lodabody_loda_mclaren_elva_2021paint_ma0",
+      "node": "body_Kit0_Paint_Geo_lodABody_lodA_McLaren_Elva_2021Paint_Ma0"
+    },
+    {
+      "id": "kit0_coloured_geo_loda_mclaren_elva_2021coloured_material_0001",
+      "node": "Kit0_Coloured_Geo_lodA_McLaren_Elva_2021Coloured_Material_0001"
+    },
+    {
+      "id": "kit0_coloured_geo_loda_mclaren_elva_2021coloured_material_0002",
+      "node": "Kit0_Coloured_Geo_lodA_McLaren_Elva_2021Coloured_Material_0002"
+    },
+    {
+      "id": "kit0_coloured_geo_loda_mclaren_elva_2021coloured_material_0003",
+      "node": "Kit0_Coloured_Geo_lodA_McLaren_Elva_2021Coloured_Material_0003"
+    },
+    {
+      "id": "kit0_coloured_geo_loda_mclaren_elva_2021coloured_material_0004",
+      "node": "Kit0_Coloured_Geo_lodA_McLaren_Elva_2021Coloured_Material_0004"
+    },
+    {
+      "id": "kit0_coloured_geo_loda_mclaren_elva_2021coloured_material_0005",
+      "node": "Kit0_Coloured_Geo_lodA_McLaren_Elva_2021Coloured_Material_0005"
+    },
+    {
+      "id": "kit0_coloured_geo_loda_mclaren_elva_2021coloured_material_0006",
+      "node": "Kit0_Coloured_Geo_lodA_McLaren_Elva_2021Coloured_Material_0006"
+    },
+    {
+      "id": "kit0_coloured_geo_loda_mclaren_elva_2021coloured_material_0007",
+      "node": "Kit0_Coloured_Geo_lodA_McLaren_Elva_2021Coloured_Material_0007"
+    },
+    {
+      "id": "kit0_coloured_geo_loda_mclaren_elva_2021coloured_material_0008",
+      "node": "Kit0_Coloured_Geo_lodA_McLaren_Elva_2021Coloured_Material_0008"
     }
   ]
-
 }
