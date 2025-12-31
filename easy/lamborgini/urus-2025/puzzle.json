@@ -1,46 +1,21 @@
 {
   "meta": {
     "brand": "Lamborgini",
-    "series": "Urus-2025",
-    "model": "car-puzzle-assets",
+    "model": "Urus-2025",
     "difficulty": "easy",
-    "pieceCount": 35
+    "pieceCount": 74
   },
   "asset": {
-    "model": "urus-2025.glb"
+    "model": "Urus-2025.glb"
   },
   "pieces": [
-    {
-      "id": "polysurface599_l_lamborghini_urusphevrewardrecycled_2024_callip",
-      "node": "polySurface599_L_Lamborghini_UrusPHEVRewardRecycled_2024_Callip"
-    },
-    {
-      "id": "polysurface992_l_lamborghini_urusphevrewardrecycled_2024_callip",
-      "node": "polySurface992_L_Lamborghini_UrusPHEVRewardRecycled_2024_Callip"
-    },
     {
       "id": "polysurface600_l_lamborghini_urusphevrewardrecycled_2024_callip",
       "node": "polySurface600_L_Lamborghini_UrusPHEVRewardRecycled_2024_Callip"
     },
     {
-      "id": "polysurface991_l_lamborghini_urusphevrewardrecycled_2024_callip",
-      "node": "polySurface991_L_Lamborghini_UrusPHEVRewardRecycled_2024_Callip"
-    },
-    {
       "id": "polysurface601_l_lamborghini_urusphevrewardrecycled_2024_callip",
       "node": "polySurface601_L_Lamborghini_UrusPHEVRewardRecycled_2024_Callip"
-    },
-    {
-      "id": "polysurface990_l_lamborghini_urusphevrewardrecycled_2024_callip",
-      "node": "polySurface990_L_Lamborghini_UrusPHEVRewardRecycled_2024_Callip"
-    },
-    {
-      "id": "polysurface602_l_lamborghini_urusphevrewardrecycled_2024_callip",
-      "node": "polySurface602_L_Lamborghini_UrusPHEVRewardRecycled_2024_Callip"
-    },
-    {
-      "id": "polysurface989_l_lamborghini_urusphevrewardrecycled_2024_callip",
-      "node": "polySurface989_L_Lamborghini_UrusPHEVRewardRecycled_2024_Callip"
     },
     {
       "id": "polysurface598_l_lamborghini_urusphevrewardrecycled_2024_wheel1",
@@ -145,6 +120,186 @@
     {
       "id": "l_window_geo_loda_window_geo_loda_lamborghini_urusphevrewardr",
       "node": "L_Window_Geo_lodA_Window_Geo_lodA_Lamborghini_UrusPHEVRewardR"
+    },
+    {
+      "id": "l_kit1_paint_geo_loda_kit1_paint_geo_loda_lamborghini_urusphe",
+      "node": "L_Kit1_Paint_Geo_lodA_Kit1_Paint_Geo_lodA_Lamborghini_UrusPHE"
+    },
+    {
+      "id": "l_kit1_paint_geo_loda_kit1_paint_geo_loda_lamborghini_urusph",
+      "node": "L_Kit1_Paint_Geo_lodA_Kit1_Paint_Geo_lodA_Lamborghini_UrusPH"
+    },
+    {
+      "id": "l_kit1_paint_geo_loda_kit1_paint_geo_loda_lamborghini_urusp",
+      "node": "L_Kit1_Paint_Geo_lodA_Kit1_Paint_Geo_lodA_Lamborghini_UrusP"
+    },
+    {
+      "id": "l_kit1_paint_geo_loda_kit1_paint_geo_loda_lamborghini_urusp001",
+      "node": "L_Kit1_Paint_Geo_lodA_Kit1_Paint_Geo_lodA_Lamborghini_UrusP001"
+    },
+    {
+      "id": "l_kit1_paint_geo_loda_kit1_paint_geo_loda_lamborghini_urusp002",
+      "node": "L_Kit1_Paint_Geo_lodA_Kit1_Paint_Geo_lodA_Lamborghini_UrusP002"
+    },
+    {
+      "id": "l_kit1_paint_geo_loda_kit1_paint_geo_loda_lamborghini_urusp003",
+      "node": "L_Kit1_Paint_Geo_lodA_Kit1_Paint_Geo_lodA_Lamborghini_UrusP003"
+    },
+    {
+      "id": "l_kit1_paint_geo_loda_kit1_paint_geo_loda_lamborghini_urusp004",
+      "node": "L_Kit1_Paint_Geo_lodA_Kit1_Paint_Geo_lodA_Lamborghini_UrusP004"
+    },
+    {
+      "id": "l_kit1_paint_geo_loda_kit1_paint_geo_loda_lamborghini_urusp005",
+      "node": "L_Kit1_Paint_Geo_lodA_Kit1_Paint_Geo_lodA_Lamborghini_UrusP005"
+    },
+    {
+      "id": "l_kit1_paint_geo_loda_kit1_paint_geo_loda_lamborghini_urusp006",
+      "node": "L_Kit1_Paint_Geo_lodA_Kit1_Paint_Geo_lodA_Lamborghini_UrusP006"
+    },
+    {
+      "id": "l_kit1_paint_geo_loda_kit1_paint_geo_loda_lamborghini_urusp007",
+      "node": "L_Kit1_Paint_Geo_lodA_Kit1_Paint_Geo_lodA_Lamborghini_UrusP007"
+    },
+    {
+      "id": "l_kit1_paint_geo_loda_kit1_paint_geo_loda_lamborghini_urusp008",
+      "node": "L_Kit1_Paint_Geo_lodA_Kit1_Paint_Geo_lodA_Lamborghini_UrusP008"
+    },
+    {
+      "id": "l_kit1_paint_geo_loda_kit1_paint_geo_loda_lamborghini_urusp009",
+      "node": "L_Kit1_Paint_Geo_lodA_Kit1_Paint_Geo_lodA_Lamborghini_UrusP009"
+    },
+    {
+      "id": "l_kit1_paint_geo_loda_kit1_paint_geo_loda_lamborghini_urusp010",
+      "node": "L_Kit1_Paint_Geo_lodA_Kit1_Paint_Geo_lodA_Lamborghini_UrusP010"
+    },
+    {
+      "id": "l_kit1_paint_geo_loda_kit1_paint_geo_loda_lamborghini_urusp011",
+      "node": "L_Kit1_Paint_Geo_lodA_Kit1_Paint_Geo_lodA_Lamborghini_UrusP011"
+    },
+    {
+      "id": "l_kit1_paint_geo_loda_kit1_paint_geo_loda_lamborghini_urusp012",
+      "node": "L_Kit1_Paint_Geo_lodA_Kit1_Paint_Geo_lodA_Lamborghini_UrusP012"
+    },
+    {
+      "id": "l_kit1_paint_geo_loda_kit1_paint_geo_loda_lamborghini_urusp013",
+      "node": "L_Kit1_Paint_Geo_lodA_Kit1_Paint_Geo_lodA_Lamborghini_UrusP013"
+    },
+    {
+      "id": "l_kit1_paint_geo_loda_kit1_paint_geo_loda_lamborghini_urusp014",
+      "node": "L_Kit1_Paint_Geo_lodA_Kit1_Paint_Geo_lodA_Lamborghini_UrusP014"
+    },
+    {
+      "id": "l_kit1_paint_geo_loda_kit1_paint_geo_loda_lamborghini_urusp015",
+      "node": "L_Kit1_Paint_Geo_lodA_Kit1_Paint_Geo_lodA_Lamborghini_UrusP015"
+    },
+    {
+      "id": "l_kit1_paint_geo_loda_kit1_paint_geo_loda_lamborghini_urusp016",
+      "node": "L_Kit1_Paint_Geo_lodA_Kit1_Paint_Geo_lodA_Lamborghini_UrusP016"
+    },
+    {
+      "id": "l_kit1_paint_geo_loda_kit1_paint_geo_loda_lamborghini_urusp017",
+      "node": "L_Kit1_Paint_Geo_lodA_Kit1_Paint_Geo_lodA_Lamborghini_UrusP017"
+    },
+    {
+      "id": "l_kit1_paint_geo_loda_kit1_paint_geo_loda_lamborghini_urusp018",
+      "node": "L_Kit1_Paint_Geo_lodA_Kit1_Paint_Geo_lodA_Lamborghini_UrusP018"
+    },
+    {
+      "id": "l_kit1_paint_geo_loda_kit1_paint_geo_loda_lamborghini_urusp019",
+      "node": "L_Kit1_Paint_Geo_lodA_Kit1_Paint_Geo_lodA_Lamborghini_UrusP019"
+    },
+    {
+      "id": "l_kit1_paint_geo_loda_kit1_paint_geo_loda_lamborghini_urusp020",
+      "node": "L_Kit1_Paint_Geo_lodA_Kit1_Paint_Geo_lodA_Lamborghini_UrusP020"
+    },
+    {
+      "id": "l_kit1_coloured_geo_loda_kit1_coloured_geo_loda_lamborghini_u",
+      "node": "L_Kit1_Coloured_Geo_lodA_Kit1_Coloured_Geo_lodA_Lamborghini_U"
+    },
+    {
+      "id": "l_kit1_coloured_geo_loda_kit1_coloured_geo_loda_lamborghini_",
+      "node": "L_Kit1_Coloured_Geo_lodA_Kit1_Coloured_Geo_lodA_Lamborghini_"
+    },
+    {
+      "id": "l_kit1_coloured_geo_loda_kit1_coloured_geo_loda_lamborghini",
+      "node": "L_Kit1_Coloured_Geo_lodA_Kit1_Coloured_Geo_lodA_Lamborghini"
+    },
+    {
+      "id": "l_kit1_coloured_geo_loda_kit1_coloured_geo_loda_lamborghini001",
+      "node": "L_Kit1_Coloured_Geo_lodA_Kit1_Coloured_Geo_lodA_Lamborghini001"
+    },
+    {
+      "id": "l_kit1_coloured_geo_loda_kit1_coloured_geo_loda_lamborghini002",
+      "node": "L_Kit1_Coloured_Geo_lodA_Kit1_Coloured_Geo_lodA_Lamborghini002"
+    },
+    {
+      "id": "l_kit1_coloured_geo_loda_kit1_coloured_geo_loda_lamborghini003",
+      "node": "L_Kit1_Coloured_Geo_lodA_Kit1_Coloured_Geo_lodA_Lamborghini003"
+    },
+    {
+      "id": "l_kit1_coloured_geo_loda_kit1_coloured_geo_loda_lamborghini004",
+      "node": "L_Kit1_Coloured_Geo_lodA_Kit1_Coloured_Geo_lodA_Lamborghini004"
+    },
+    {
+      "id": "l_kit1_coloured_geo_loda_kit1_coloured_geo_loda_lamborghini005",
+      "node": "L_Kit1_Coloured_Geo_lodA_Kit1_Coloured_Geo_lodA_Lamborghini005"
+    },
+    {
+      "id": "l_kit1_coloured_geo_loda_kit1_coloured_geo_loda_lamborghini006",
+      "node": "L_Kit1_Coloured_Geo_lodA_Kit1_Coloured_Geo_lodA_Lamborghini006"
+    },
+    {
+      "id": "l_kit1_coloured_geo_loda_kit1_coloured_geo_loda_lamborghini007",
+      "node": "L_Kit1_Coloured_Geo_lodA_Kit1_Coloured_Geo_lodA_Lamborghini007"
+    },
+    {
+      "id": "l_kit1_coloured_geo_loda_kit1_coloured_geo_loda_lamborghini008",
+      "node": "L_Kit1_Coloured_Geo_lodA_Kit1_Coloured_Geo_lodA_Lamborghini008"
+    },
+    {
+      "id": "l_kit1_coloured_geo_loda_kit1_coloured_geo_loda_lamborghini009",
+      "node": "L_Kit1_Coloured_Geo_lodA_Kit1_Coloured_Geo_lodA_Lamborghini009"
+    },
+    {
+      "id": "l_kit1_coloured_geo_loda_kit1_coloured_geo_loda_lamborghini010",
+      "node": "L_Kit1_Coloured_Geo_lodA_Kit1_Coloured_Geo_lodA_Lamborghini010"
+    },
+    {
+      "id": "l_kit1_coloured_geo_loda_kit1_coloured_geo_loda_lamborghini011",
+      "node": "L_Kit1_Coloured_Geo_lodA_Kit1_Coloured_Geo_lodA_Lamborghini011"
+    },
+    {
+      "id": "l_kit1_coloured_geo_loda_kit1_coloured_geo_loda_lamborghini012",
+      "node": "L_Kit1_Coloured_Geo_lodA_Kit1_Coloured_Geo_lodA_Lamborghini012"
+    },
+    {
+      "id": "l_kit1_coloured_geo_loda_kit1_coloured_geo_loda_lamborghini013",
+      "node": "L_Kit1_Coloured_Geo_lodA_Kit1_Coloured_Geo_lodA_Lamborghini013"
+    },
+    {
+      "id": "l_kit1_coloured_geo_loda_kit1_coloured_geo_loda_lamborghini014",
+      "node": "L_Kit1_Coloured_Geo_lodA_Kit1_Coloured_Geo_lodA_Lamborghini014"
+    },
+    {
+      "id": "l_kit1_coloured_geo_loda_kit1_coloured_geo_loda_lamborghini016",
+      "node": "L_Kit1_Coloured_Geo_lodA_Kit1_Coloured_Geo_lodA_Lamborghini016"
+    },
+    {
+      "id": "l_kit1_coloured_geo_loda_kit1_coloured_geo_loda_lamborghini015",
+      "node": "L_Kit1_Coloured_Geo_lodA_Kit1_Coloured_Geo_lodA_Lamborghini015"
+    },
+    {
+      "id": "l_kit1_paint_geo_loda_kit1_paint_geo_loda_lamborghini_urusp021",
+      "node": "L_Kit1_Paint_Geo_lodA_Kit1_Paint_Geo_lodA_Lamborghini_UrusP021"
+    },
+    {
+      "id": "l_kit1_paint_geo_loda_kit1_paint_geo_loda_lamborghini_urusp022",
+      "node": "L_Kit1_Paint_Geo_lodA_Kit1_Paint_Geo_lodA_Lamborghini_UrusP022"
+    },
+    {
+      "id": "l_kit1_paint_geo_loda_kit1_paint_geo_loda_lamborghini_urusp023",
+      "node": "L_Kit1_Paint_Geo_lodA_Kit1_Paint_Geo_lodA_Lamborghini_UrusP023"
     },
     {
       "id": "icosphere",
