@@ -90,10 +90,11 @@
             "F40": { "prefix": "part", "count": "8" }
         },
         "Lamborghini": {
-            "Huracan": { "type": "github", "path": "easy/hard/huracan" }
+            "Huracan": { "type": "github", "path": "hard/lamborghini/huracan" }
         }
     }
 }
+
 
 
 
