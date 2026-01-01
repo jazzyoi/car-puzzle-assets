@@ -2,7 +2,7 @@
   "meta": {
     "brand": "Lamborghini",
     "model": "Huracan",
-    "difficulty": "easy",
+    "difficulty": "hard",
     "pieceCount": 47
   },
   "asset": {
@@ -200,3 +200,4 @@
   ]
 
 }
+
