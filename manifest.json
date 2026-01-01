@@ -91,9 +91,10 @@
         },
         "Lamborghini": {
             "Huracan": { "type": "github", "path": "hard/lamborghini/huracan" }
-        }
+        },
     }
 }
+
 
 
 
