@@ -87,14 +87,15 @@
     },
     "hard": {
         "Ferrari": {
-            "F40": { "prefix": "part", "count": "8" },
+            "F40": { "prefix": "part", "count": "8" }
+        },
         "Lamborghini": {
             "Huracan": { "type": "github", "path": "easy/hard/huracan" }
         },
-
         }
     }
 }
+
 
 
 
