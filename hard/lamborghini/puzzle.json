@@ -1,6 +1,6 @@
 {
   "meta": {
-    "brand": "Lamborgini",
+    "brand": "Lamborghini",
     "model": "Huracan",
     "difficulty": "easy",
     "pieceCount": 47
@@ -198,4 +198,5 @@
       "node": "Object_229013"
     }
   ]
+
 }
