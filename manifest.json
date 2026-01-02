@@ -1,5 +1,5 @@
 {
-    "basic": {
+    "Basic": {
          "AUDI": {
             "Etron": { "type": "github", "path": "easy/audi/etron" },
             "Lily": { "type": "github", "path": "easy/audi/lily" }
@@ -80,12 +80,12 @@
             "Golf"  : { "type": "github", "path": "easy/vw/golf" } 
         }
     },
-    "medium": {
+    "Medium": {
         "Toyota": {
             "Supra": { "prefix": "part", "count": "5" }
         }
     },
-    "advanced": {
+    "Advanced": {
         "Ferrari": {
             "F40": { "prefix": "part", "count": "8" }
         },
@@ -94,6 +94,7 @@
         }
     }
 }
+
 
 
 
