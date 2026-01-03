@@ -1,13 +1,12 @@
 {
   "meta": {
-    "brand": "Toyota",
-    "series": "Camry",
-    "model": "mclaren",
-    "difficulty": "easy",
+    "brand": "McLaren",
+    "model": "GT-2020",
+    "difficulty": "advanced",
     "pieceCount": 98
   },
   "asset": {
-    "model": "mclaren.glb"
+    "model": "gt-2020.glb"
   },
   "pieces": [
     {
