@@ -1,0 +1,389 @@
+{
+  "meta": {
+    "brand": "McLaren",
+    "model": "GT-2020",
+    "difficulty": "advanced",
+    "pieceCount": 94
+  },
+  "asset": {
+    "model": "gt-2020.glb"
+  },
+  "pieces": [
+    {
+      "id": "mesh_0",
+      "node": "Mesh_0"
+    },
+    {
+      "id": "mesh_1",
+      "node": "Mesh_1"
+    },
+    {
+      "id": "mesh_3",
+      "node": "Mesh_3"
+    },
+    {
+      "id": "mesh_5",
+      "node": "Mesh_5"
+    },
+    {
+      "id": "mesh_6",
+      "node": "Mesh_6"
+    },
+    {
+      "id": "mesh_7",
+      "node": "Mesh_7"
+    },
+    {
+      "id": "mesh_8",
+      "node": "Mesh_8"
+    },
+    {
+      "id": "mesh_9",
+      "node": "Mesh_9"
+    },
+    {
+      "id": "mesh_10",
+      "node": "Mesh_10"
+    },
+    {
+      "id": "mesh_11",
+      "node": "Mesh_11"
+    },
+    {
+      "id": "mesh_12",
+      "node": "Mesh_12"
+    },
+    {
+      "id": "mesh_13",
+      "node": "Mesh_13"
+    },
+    {
+      "id": "mesh_14",
+      "node": "Mesh_14"
+    },
+    {
+      "id": "mesh_15",
+      "node": "Mesh_15"
+    },
+    {
+      "id": "mesh_16",
+      "node": "Mesh_16"
+    },
+    {
+      "id": "mesh_17",
+      "node": "Mesh_17"
+    },
+    {
+      "id": "mesh_19",
+      "node": "Mesh_19"
+    },
+    {
+      "id": "mesh_21",
+      "node": "Mesh_21"
+    },
+    {
+      "id": "mesh_23",
+      "node": "Mesh_23"
+    },
+    {
+      "id": "mesh_24",
+      "node": "Mesh_24"
+    },
+    {
+      "id": "mesh_25",
+      "node": "Mesh_25"
+    },
+    {
+      "id": "mesh_9002",
+      "node": "Mesh_9002"
+    },
+    {
+      "id": "mesh_9003",
+      "node": "Mesh_9003"
+    },
+    {
+      "id": "mesh_18001",
+      "node": "Mesh_18001"
+    },
+    {
+      "id": "mesh_18002",
+      "node": "Mesh_18002"
+    },
+    {
+      "id": "mesh_6001",
+      "node": "Mesh_6001"
+    },
+    {
+      "id": "mesh_6002",
+      "node": "Mesh_6002"
+    },
+    {
+      "id": "mesh_6003",
+      "node": "Mesh_6003"
+    },
+    {
+      "id": "mesh_9001",
+      "node": "Mesh_9001"
+    },
+    {
+      "id": "mesh_14002",
+      "node": "Mesh_14002"
+    },
+    {
+      "id": "mesh_14003",
+      "node": "Mesh_14003"
+    },
+    {
+      "id": "mesh_14005",
+      "node": "Mesh_14005"
+    },
+    {
+      "id": "mesh_14006",
+      "node": "Mesh_14006"
+    },
+    {
+      "id": "mesh_9005",
+      "node": "Mesh_9005"
+    },
+    {
+      "id": "mesh_9006",
+      "node": "Mesh_9006"
+    },
+    {
+      "id": "mesh_9007",
+      "node": "Mesh_9007"
+    },
+    {
+      "id": "mesh_17001",
+      "node": "Mesh_17001"
+    },
+    {
+      "id": "mesh_9009",
+      "node": "Mesh_9009"
+    },
+    {
+      "id": "mesh_17003",
+      "node": "Mesh_17003"
+    },
+    {
+      "id": "mesh_1001",
+      "node": "Mesh_1001"
+    },
+    {
+      "id": "mesh_9011",
+      "node": "Mesh_9011"
+    },
+    {
+      "id": "mesh_1002",
+      "node": "Mesh_1002"
+    },
+    {
+      "id": "mesh_19001",
+      "node": "Mesh_19001"
+    },
+    {
+      "id": "mesh_9012",
+      "node": "Mesh_9012"
+    },
+    {
+      "id": "mesh_1003",
+      "node": "Mesh_1003"
+    },
+    {
+      "id": "mesh_19002",
+      "node": "Mesh_19002"
+    },
+    {
+      "id": "mesh_19003",
+      "node": "Mesh_19003"
+    },
+    {
+      "id": "mesh_1004",
+      "node": "Mesh_1004"
+    },
+    {
+      "id": "mesh_15001",
+      "node": "Mesh_15001"
+    },
+    {
+      "id": "mesh_15002",
+      "node": "Mesh_15002"
+    },
+    {
+      "id": "mesh_25001",
+      "node": "Mesh_25001"
+    },
+    {
+      "id": "mesh_15003",
+      "node": "Mesh_15003"
+    },
+    {
+      "id": "mesh_9004",
+      "node": "Mesh_9004"
+    },
+    {
+      "id": "mesh_15004",
+      "node": "Mesh_15004"
+    },
+    {
+      "id": "mesh_15005",
+      "node": "Mesh_15005"
+    },
+    {
+      "id": "mesh_15006",
+      "node": "Mesh_15006"
+    },
+    {
+      "id": "mesh_9010",
+      "node": "Mesh_9010"
+    },
+    {
+      "id": "mesh_9013",
+      "node": "Mesh_9013"
+    },
+    {
+      "id": "mesh_9008",
+      "node": "Mesh_9008"
+    },
+    {
+      "id": "mesh_0001",
+      "node": "Mesh_0001"
+    },
+    {
+      "id": "mesh_6004",
+      "node": "Mesh_6004"
+    },
+    {
+      "id": "mesh_12001",
+      "node": "Mesh_12001"
+    },
+    {
+      "id": "mesh_13001",
+      "node": "Mesh_13001"
+    },
+    {
+      "id": "mesh_25002",
+      "node": "Mesh_25002"
+    },
+    {
+      "id": "mesh_18003",
+      "node": "Mesh_18003"
+    },
+    {
+      "id": "mesh_18004",
+      "node": "Mesh_18004"
+    },
+    {
+      "id": "mesh_9014",
+      "node": "Mesh_9014"
+    },
+    {
+      "id": "mesh_17002",
+      "node": "Mesh_17002"
+    },
+    {
+      "id": "mesh_17004",
+      "node": "Mesh_17004"
+    },
+    {
+      "id": "mesh_1005",
+      "node": "Mesh_1005"
+    },
+    {
+      "id": "mesh_19004",
+      "node": "Mesh_19004"
+    },
+    {
+      "id": "mesh_15007",
+      "node": "Mesh_15007"
+    },
+    {
+      "id": "mesh_15008",
+      "node": "Mesh_15008"
+    },
+    {
+      "id": "mesh_15009",
+      "node": "Mesh_15009"
+    },
+    {
+      "id": "mesh_9015",
+      "node": "Mesh_9015"
+    },
+    {
+      "id": "mesh_9016",
+      "node": "Mesh_9016"
+    },
+    {
+      "id": "mesh_0002",
+      "node": "Mesh_0002"
+    },
+    {
+      "id": "mesh_6005",
+      "node": "Mesh_6005"
+    },
+    {
+      "id": "mesh_12002",
+      "node": "Mesh_12002"
+    },
+    {
+      "id": "mesh_13002",
+      "node": "Mesh_13002"
+    },
+    {
+      "id": "mesh_25003",
+      "node": "Mesh_25003"
+    },
+    {
+      "id": "mesh_18005",
+      "node": "Mesh_18005"
+    },
+    {
+      "id": "mesh_18006",
+      "node": "Mesh_18006"
+    },
+    {
+      "id": "mesh_9017",
+      "node": "Mesh_9017"
+    },
+    {
+      "id": "mesh_17005",
+      "node": "Mesh_17005"
+    },
+    {
+      "id": "mesh_17006",
+      "node": "Mesh_17006"
+    },
+    {
+      "id": "mesh_1006",
+      "node": "Mesh_1006"
+    },
+    {
+      "id": "mesh_19005",
+      "node": "Mesh_19005"
+    },
+    {
+      "id": "mesh_15010",
+      "node": "Mesh_15010"
+    },
+    {
+      "id": "mesh_15011",
+      "node": "Mesh_15011"
+    },
+    {
+      "id": "mesh_15012",
+      "node": "Mesh_15012"
+    },
+    {
+      "id": "mesh_9018",
+      "node": "Mesh_9018"
+    },
+    {
+      "id": "mesh_9019",
+      "node": "Mesh_9019"
+    },
+    {
+      "id": "mesh_9020",
+      "node": "Mesh_9020"
+    }
+  ]
+}
