@@ -91,9 +91,13 @@
         },
         "Lamborghini": {
             "Huracan": { "type": "github", "path": "advanced/lamborghini/huracan" }
+        },
+      "McLaren": {
+            "Gt-2020": { "type": "github", "path": "advanced/mclaren/gt-2020" }
         }
     }
 }
+
 
 
 
