@@ -90,13 +90,15 @@
             "F40": { "prefix": "part", "count": "8" }
         },
         "Lamborghini": {
-            "Huracan": { "type": "github", "path": "advanced/lamborghini/huracan" }
+            "lanzador-2023": { "type": "github", "path": "advanced/lamborghini/huracan" },
+            "Huracan":       { "type": "github", "path": "advanced/lamborghini/lanzador-2023" }
         },
       "McLaren": {
             "Gt-2020": { "type": "github", "path": "advanced/mclaren/gt-2020" }
         }
     }
 }
+
 
 
 
