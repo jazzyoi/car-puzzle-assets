@@ -1,83 +1,83 @@
 {
     "Basic": {
-         "AUDI": {
+        "AUDI": {
             "Etron": { "type": "github", "path": "easy/audi/etron" },
             "Lily": { "type": "github", "path": "easy/audi/lily" }
         },
-         "BYD": {
+        "BYD": {
             "Atto": { "type": "github", "path": "easy/byd/atto" },
-            "Seal": { "type": "github", "path": "easy/byd/seal" } 
+            "Seal": { "type": "github", "path": "easy/byd/seal" }
         },
-         "BMW": {
-            "X1" :    { "type": "github", "path": "easy/bmw/x1" },
-            "3ST":    { "type": "github", "path": "easy/bmw/3st" },
-            "i7" :    { "type": "github", "path": "easy/bmw/i7" },
-            "iX" :    { "type": "github", "path": "easy/bmw/ix" },
-            "760Li" : { "type": "github", "path": "easy/bmw/760li" },
-            "M2" : { "type": "github", "path": "easy/bmw/m2" },
-            "M3" : { "type": "github", "path": "easy/bmw/m3" },
-            "M4" : { "type": "github", "path": "easy/bmw/m4" },
-            "M5" : { "type": "github", "path": "easy/bmw/m5" },
-            "x5" : { "type": "github", "path": "easy/bmw/x5" } 
+        "BMW": {
+            "X1": { "type": "github", "path": "easy/bmw/x1" },
+            "3ST": { "type": "github", "path": "easy/bmw/3st" },
+            "i7": { "type": "github", "path": "easy/bmw/i7" },
+            "iX": { "type": "github", "path": "easy/bmw/ix" },
+            "760Li": { "type": "github", "path": "easy/bmw/760li" },
+            "M2": { "type": "github", "path": "easy/bmw/m2" },
+            "M3": { "type": "github", "path": "easy/bmw/m3" },
+            "M4": { "type": "github", "path": "easy/bmw/m4" },
+            "M5": { "type": "github", "path": "easy/bmw/m5" },
+            "x5": { "type": "github", "path": "easy/bmw/x5" }
         },
-        "Ferrari"      : {
-            "F40"      : { "type": "github", "path": "easy/ferrari/f40" },
-            "F430"     : { "type": "github", "path": "easy/ferrari/f430" },
-            "F488"     : { "type": "github", "path": "easy/ferrari/f488" },
-            "F812"     : { "type": "github", "path": "easy/ferrari/f812" },
-            "SF90"     : { "type": "github", "path": "easy/ferrari/sf90" },
+        "Ferrari": {
+            "F40": { "type": "github", "path": "easy/ferrari/f40" },
+            "F430": { "type": "github", "path": "easy/ferrari/f430" },
+            "F488": { "type": "github", "path": "easy/ferrari/f488" },
+            "F812": { "type": "github", "path": "easy/ferrari/f812" },
+            "SF90": { "type": "github", "path": "easy/ferrari/sf90" },
             "Roma-2020": { "type": "github", "path": "easy/ferrari/roma-2020" },
             "Sp38-2018": { "type": "github", "path": "easy/ferrari/sp38-2018" },
-            "Cilindri" : { "type": "github", "path": "easy/ferrari/cilindri" }
+            "Cilindri": { "type": "github", "path": "easy/ferrari/cilindri" }
         },
         "Force": {
             "Nine11": { "type": "github", "path": "easy/force/nine11" }
         },
-         "Harley": {
+        "Harley": {
             "Iron-2018": { "type": "github", "path": "easy/harley/iron-2018" }
         },
         "Hummer": {
             "H2": { "type": "github", "path": "easy/hummer/h2" }
         },
         "Toyota": {
-            "Camry":   { "type": "github", "path": "easy/toyota/camry" },
-            "Corolla": { "type": "github", "path": "easy/toyota/corolla"}, 
-            "Crown":   { "type": "github", "path": "easy/toyota/crown" } ,
-            "LC-500":   { "type": "github", "path": "easy/toyota/lc-500" } ,
-            "Innova":  { "type": "github", "path": "easy/toyota/innova" } 
+            "Camry": { "type": "github", "path": "easy/toyota/camry" },
+            "Corolla": { "type": "github", "path": "easy/toyota/corolla" },
+            "Crown": { "type": "github", "path": "easy/toyota/crown" },
+            "LC-500": { "type": "github", "path": "easy/toyota/lc-500" },
+            "Innova": { "type": "github", "path": "easy/toyota/innova" }
         },
         "Honda": {
-            "Civic": { "type": "github", "path": "easy/honda/civic" } 
+            "Civic": { "type": "github", "path": "easy/honda/civic" }
         },
         "Hyundai": {
             "Ioniq5": { "type": "github", "path": "easy/hyundai/ioniq5" },
             "Santafe": { "type": "github", "path": "easy/hyundai/santafe" }
         },
         "Lamborgini": {
-            "Temerario"      : { "type": "github", "path": "easy/lamborgini/temerario" } ,
-            "ferzor"         : { "type": "github", "path": "easy/lamborgini/ferzor" } ,
-            "Gallardo"       : { "type": "github", "path": "easy/lamborgini/gallardo" },
-            "Aventador"      : { "type": "github", "path": "easy/lamborgini/aventador" },
-            "Revuelto"       : { "type": "github", "path": "easy/lamborgini/revuelto" },
-            "Huracan"        : { "type": "github", "path": "easy/lamborgini/huracan" },
-            "Urus-2019"      : { "type": "github", "path": "easy/lamborgini/urus-2019" },
-            "Urus-2025"      : { "type": "github", "path": "easy/lamborgini/urus-2025" },
-            "Estoque-2008"   : { "type": "github", "path": "easy/lamborgini/estoque-2008" }
+            "Temerario": { "type": "github", "path": "easy/lamborgini/temerario" },
+            "ferzor": { "type": "github", "path": "easy/lamborgini/ferzor" },
+            "Gallardo": { "type": "github", "path": "easy/lamborgini/gallardo" },
+            "Aventador": { "type": "github", "path": "easy/lamborgini/aventador" },
+            "Revuelto": { "type": "github", "path": "easy/lamborgini/revuelto" },
+            "Huracan": { "type": "github", "path": "easy/lamborgini/huracan" },
+            "Urus-2019": { "type": "github", "path": "easy/lamborgini/urus-2019" },
+            "Urus-2025": { "type": "github", "path": "easy/lamborgini/urus-2025" },
+            "Estoque-2008": { "type": "github", "path": "easy/lamborgini/estoque-2008" }
         },
-            "Mclaren": {
-            "GT-2020"    : { "type": "github", "path": "easy/mclaren/gt-2020" },
-            "570s-2016"  : { "type": "github", "path": "easy/mclaren/570s-2016" },
+        "Mclaren": {
+            "GT-2020": { "type": "github", "path": "easy/mclaren/gt-2020" },
+            "570s-2016": { "type": "github", "path": "easy/mclaren/570s-2016" },
             "Artura-2023": { "type": "github", "path": "easy/mclaren/artura-2023" },
-            "Elva-2021"  : { "type": "github", "path": "easy/mclaren/elva-2021" }
+            "Elva-2021": { "type": "github", "path": "easy/mclaren/elva-2021" }
         },
         "Mercedes": {
             "V-Class": { "type": "github", "path": "easy/mercedes/v-class" },
-            "CLS"    : { "type": "github", "path": "easy/mercedes/cls" },
-             "SL65": { "type": "github", "path": "easy/mercedes/sl65" }
+            "CLS": { "type": "github", "path": "easy/mercedes/cls" },
+            "SL65": { "type": "github", "path": "easy/mercedes/sl65" }
         },
         "Vw": {
-            "Beetle": { "type": "github", "path": "easy/vw/beetle" } ,
-            "Golf"  : { "type": "github", "path": "easy/vw/golf" } 
+            "Beetle": { "type": "github", "path": "easy/vw/beetle" },
+            "Golf": { "type": "github", "path": "easy/vw/golf" }
         }
     },
     "Medium": {
@@ -91,45 +91,11 @@
         },
         "Lamborghini": {
             "lanzador-2023": { "type": "github", "path": "advanced/lamborghini/lanzador-2023" },
-            "Huracan":       { "type": "github", "path": "advanced/lamborghini/huracan" }
+            "Huracan": { "type": "github", "path": "advanced/lamborghini/huracan" }
         },
-      "McLaren": {
-            "Gt-2020":   { "type": "github", "path": "advanced/mclaren/gt-2020" },
+        "McLaren": {
+            "Gt-2020": { "type": "github", "path": "advanced/mclaren/gt-2020" },
             "Elva-2021": { "type": "github", "path": "advanced/mclaren/elva-2021" }
-           },
+        }
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
