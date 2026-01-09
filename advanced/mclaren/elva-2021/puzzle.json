@@ -1,9 +1,9 @@
 {
   "meta": {
-    "brand": "mclaren",
+    "brand": "McLaren",
     "model": "elva-2021",
     "difficulty": "advanced",
-    "pieceCount": 1
+    "pieceCount": 16
   },
   "asset": {
     "model": "elva-2021.glb"
@@ -12,6 +12,66 @@
     {
       "id": "body_kit0_paint_geo_lodabody_loda_mclaren_elva_2021paint_ma150",
       "node": "body_Kit0_Paint_Geo_lodABody_lodA_McLaren_Elva_2021Paint_Ma150"
+    },
+    {
+      "id": "body_kit0_paint_geo_lodabody_loda_mclaren_elva_2021paint_ma15",
+      "node": "body_Kit0_Paint_Geo_lodABody_lodA_McLaren_Elva_2021Paint_Ma15"
+    },
+    {
+      "id": "body_kit0_paint_geo_lodabody_loda_mclaren_elva_2021paint_ma1",
+      "node": "body_Kit0_Paint_Geo_lodABody_lodA_McLaren_Elva_2021Paint_Ma1"
+    },
+    {
+      "id": "body_kit0_paint_geo_lodabody_loda_mclaren_elva_2021paint_ma",
+      "node": "body_Kit0_Paint_Geo_lodABody_lodA_McLaren_Elva_2021Paint_Ma"
+    },
+    {
+      "id": "body_kit0_paint_geo_lodabody_loda_mclaren_elva_2021paint_ma001",
+      "node": "body_Kit0_Paint_Geo_lodABody_lodA_McLaren_Elva_2021Paint_Ma001"
+    },
+    {
+      "id": "body_kit0_paint_geo_lodabody_loda_mclaren_elva_2021paint_ma002",
+      "node": "body_Kit0_Paint_Geo_lodABody_lodA_McLaren_Elva_2021Paint_Ma002"
+    },
+    {
+      "id": "body_kit0_paint_geo_lodabody_loda_mclaren_elva_2021paint_ma003",
+      "node": "body_Kit0_Paint_Geo_lodABody_lodA_McLaren_Elva_2021Paint_Ma003"
+    },
+    {
+      "id": "body_kit0_paint_geo_lodabody_loda_mclaren_elva_2021paint_ma004",
+      "node": "body_Kit0_Paint_Geo_lodABody_lodA_McLaren_Elva_2021Paint_Ma004"
+    },
+    {
+      "id": "body_kit0_paint_geo_lodabody_loda_mclaren_elva_2021paint_ma005",
+      "node": "body_Kit0_Paint_Geo_lodABody_lodA_McLaren_Elva_2021Paint_Ma005"
+    },
+    {
+      "id": "body_kit0_paint_geo_lodabody_loda_mclaren_elva_2021paint_ma006",
+      "node": "body_Kit0_Paint_Geo_lodABody_lodA_McLaren_Elva_2021Paint_Ma006"
+    },
+    {
+      "id": "body_kit0_paint_geo_lodabody_loda_mclaren_elva_2021paint_ma007",
+      "node": "body_Kit0_Paint_Geo_lodABody_lodA_McLaren_Elva_2021Paint_Ma007"
+    },
+    {
+      "id": "body_kit0_paint_geo_lodabody_loda_mclaren_elva_2021paint_ma008",
+      "node": "body_Kit0_Paint_Geo_lodABody_lodA_McLaren_Elva_2021Paint_Ma008"
+    },
+    {
+      "id": "body_kit0_paint_geo_lodabody_loda_mclaren_elva_2021paint_ma009",
+      "node": "body_Kit0_Paint_Geo_lodABody_lodA_McLaren_Elva_2021Paint_Ma009"
+    },
+    {
+      "id": "body_kit0_paint_geo_lodabody_loda_mclaren_elva_2021paint_ma010",
+      "node": "body_Kit0_Paint_Geo_lodABody_lodA_McLaren_Elva_2021Paint_Ma010"
+    },
+    {
+      "id": "body_kit0_paint_geo_lodabody_loda_mclaren_elva_2021paint_ma011",
+      "node": "body_Kit0_Paint_Geo_lodABody_lodA_McLaren_Elva_2021Paint_Ma011"
+    },
+    {
+      "id": "body_kit0_paint_geo_lodabody_loda_mclaren_elva_2021paint_ma012",
+      "node": "body_Kit0_Paint_Geo_lodABody_lodA_McLaren_Elva_2021Paint_Ma012"
     }
   ]
 }
