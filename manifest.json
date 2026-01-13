@@ -81,7 +81,10 @@
         }
     },
     "Medium": {
-        "Toyota": {
+       "Bugatti": {
+            "Bolide-2024": { "type": "github", "path": "medium/bugatti/bolide-2024" }
+    },
+       "Toyota": {
             "Supra": { "prefix": "part", "count": "5" }
         }
     },
@@ -99,3 +102,4 @@
         }
     }
 }
+
