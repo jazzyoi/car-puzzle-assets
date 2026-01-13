@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "brand": "Bugatti",
+    "model": "Bolide-2024",
+    "difficulty": "medium",
+    "pieceCount": 1
+  },
+  "asset": {
+    "model": "bolide-2024.glb"
+  },
+  "pieces": [
+    {
+      "id": "object_31001",
+      "node": "Object_31001"
+    }
+  ]
+}
