@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "brand": "Ford",
+    "model": "mustanggt3-2024",
+    "difficulty": "easy",
+    "pieceCount": 32
+  },
+  "asset": {
+    "model": "mustanggt3-2024.glb"
+  },
+  "pieces": [
+    {
+      "id": "object_2",
+      "node": "Object_2"
+    },
+    {
+      "id": "object_21",
+      "node": "Object_21"
+    },
+    {
+      "id": "object_27",
+      "node": "Object_27"
+    },
+    {
+      "id": "object_30",
+      "node": "Object_30"
+    },
+    {
+      "id": "object_32",
+      "node": "Object_32"
+    },
+    {
+      "id": "object_34",
+      "node": "Object_34"
+    },
+    {
+      "id": "object_35",
+      "node": "Object_35"
+    },
+    {
+      "id": "object_36",
+      "node": "Object_36"
+    },
+    {
+      "id": "object_38",
+      "node": "Object_38"
+    },
+    {
+      "id": "object_39",
+      "node": "Object_39"
+    },
+    {
+      "id": "object_40",
+      "node": "Object_40"
+    },
+    {
+      "id": "object_41",
+      "node": "Object_41"
+    },
+    {
+      "id": "object_42",
+      "node": "Object_42"
+    },
+    {
+      "id": "object_43",
+      "node": "Object_43"
+    },
+    {
+      "id": "object_44",
+      "node": "Object_44"
+    },
+    {
+      "id": "object_45",
+      "node": "Object_45"
+    },
+    {
+      "id": "object_47",
+      "node": "Object_47"
+    },
+    {
+      "id": "object_48",
+      "node": "Object_48"
+    },
+    {
+      "id": "object_50",
+      "node": "Object_50"
+    },
+    {
+      "id": "object_53",
+      "node": "Object_53"
+    },
+    {
+      "id": "object_54",
+      "node": "Object_54"
+    },
+    {
+      "id": "object_55",
+      "node": "Object_55"
+    },
+    {
+      "id": "object_58",
+      "node": "Object_58"
+    },
+    {
+      "id": "object_59",
+      "node": "Object_59"
+    },
+    {
+      "id": "object_60",
+      "node": "Object_60"
+    },
+    {
+      "id": "object_61",
+      "node": "Object_61"
+    },
+    {
+      "id": "object_62",
+      "node": "Object_62"
+    },
+    {
+      "id": "object_63",
+      "node": "Object_63"
+    },
+    {
+      "id": "object_64",
+      "node": "Object_64"
+    },
+    {
+      "id": "object_66",
+      "node": "Object_66"
+    },
+    {
+      "id": "object_67",
+      "node": "Object_67"
+    },
+    {
+      "id": "object_68",
+      "node": "Object_68"
+    }
+  ]
+}
