@@ -42,8 +42,8 @@
         "Mazda": {
             "Rx-Vision": { "type": "github", "path": "easy/mazda/rx-vision" }
         },
-     "Mustang": {
-            "gt3-2024": { "type": "github", "path": "easy/mustang/gt3-2024" }
+     "Ford": {
+            "mustanggt3-2024": { "type": "github", "path": "easy/ford/mustanggt3-2024" }
         },
         "Toyota": {
             "Camry": { "type": "github", "path": "easy/toyota/camry" },
@@ -108,6 +108,7 @@
         }
     }
 }
+
 
 
 
