@@ -39,6 +39,10 @@
         "Hummer": {
             "H2": { "type": "github", "path": "easy/hummer/h2" }
         },
+        "Mazda": {
+            "Rx-Visiom": { "type": "github", "path": "easy/mazda/rx-vision" }
+        },
+
         "Toyota": {
             "Camry": { "type": "github", "path": "easy/toyota/camry" },
             "Corolla": { "type": "github", "path": "easy/toyota/corolla" },
@@ -102,4 +106,5 @@
         }
     }
 }
+
 
