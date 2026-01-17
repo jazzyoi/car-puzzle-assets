@@ -40,7 +40,7 @@
             "H2": { "type": "github", "path": "easy/hummer/h2" }
         },
         "Mazda": {
-            "Rx-Visiom": { "type": "github", "path": "easy/mazda/rx-vision" }
+            "Rx-Vision": { "type": "github", "path": "easy/mazda/rx-vision" }
         },
 
         "Toyota": {
@@ -106,5 +106,6 @@
         }
     }
 }
+
 
 
