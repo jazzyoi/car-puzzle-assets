@@ -3,7 +3,7 @@
     "brand": "Mercedes",
     "model": "amg-2022",
     "difficulty": "advanced",
-    "pieceCount": 64
+    "pieceCount": 71
   },
   "asset": {
     "model": "amg-2022.glb"
@@ -264,6 +264,34 @@
     {
       "id": "amgprojone_door_l004_amgprojone_carbon_0001",
       "node": "amgprojone_door_L004_amgprojone_carbon_0001"
+    },
+    {
+      "id": "amgprojone_door_r009_amgprojone_interior9_0001",
+      "node": "amgprojone_door_R009_amgprojone_interior9_0001"
+    },
+    {
+      "id": "amgprojone_door_r_amgprojone_clearglass2_0001",
+      "node": "amgprojone_door_R_amgprojone_clearglass2_0001"
+    },
+    {
+      "id": "amgprojone_door_r001_amgprojone_paint_0001",
+      "node": "amgprojone_door_R001_amgprojone_paint_0001"
+    },
+    {
+      "id": "amgprojone_door_r003_amgprojone_plastic_0001",
+      "node": "amgprojone_door_R003_amgprojone_plastic_0001"
+    },
+    {
+      "id": "amgprojone_tailgate001_amgprojone_carbon_0001",
+      "node": "amgprojone_tailgate001_amgprojone_carbon_0001"
+    },
+    {
+      "id": "amgprojone_tailgate001_amgprojone_carbon_0002",
+      "node": "amgprojone_tailgate001_amgprojone_carbon_0002"
+    },
+    {
+      "id": "amgprojone_body002_amgprojone_paint_0001001",
+      "node": "amgprojone_body002_amgprojone_paint_0001001"
     }
   ]
 }
