@@ -102,12 +102,16 @@
             "lanzador-2023": { "type": "github", "path": "advanced/lamborghini/lanzador-2023" },
             "Huracan": { "type": "github", "path": "advanced/lamborghini/huracan" }
         },
+         "Mercedes": {
+            "Amg-2022": { "type": "github", "path": "advanced/mercedes/amg-2022" }
+        },
         "McLaren": {
             "Gt-2020": { "type": "github", "path": "advanced/mclaren/gt-2020" },
             "Elva-2021": { "type": "github", "path": "advanced/mclaren/elva-2021" }
         }
     }
 }
+
 
 
 
